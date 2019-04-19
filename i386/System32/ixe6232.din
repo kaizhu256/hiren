@@ -1,0 +1,32 @@
+
+[Version]
+Signature="$Windows NT$"
+SetupClass=BASE
+Provider=%Intel%
+[Manufacturer]
+%Intel%=Intel
+[ControlFlags]
+[Intel]
+[DestinationDirs]
+DefaultDestDir=11
+ixgbe.DelFiles=12
+CoInstaller.DelFiles=11
+UnInstall.DelFiles=11
+[8259x.Uninstall]
+DelFiles=ixgbe.DelFiles, CoInstaller.DelFiles, UnInstall.DelFiles
+DelReg=8259x.DelReg
+[ixgbe.DelFiles]
+ixe6264.sys,,,1
+ixemsg.dll,,,1
+[CoInstaller.DelFiles]
+NicCo36.dll,,,1
+NicInIXE.dll,,,1
+[UnInstall.DelFiles]
+Prounstl.exe,,,1
+ixe6264.din,,,1
+[8259x.DelReg]
+HKLM,Software\Microsoft\Windows\CurrentVersion\Uninstall\PROSet
+HKLM,Software\INTEL\Prounstl
+HKLM,Software\INTEL\NIC
+[Strings]
+Intel="Intel"

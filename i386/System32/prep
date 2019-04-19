@@ -1,0 +1,16 @@
+@echo off
+call hbdrv
+mkdir "%CommonProgramFiles%"
+uharc e -y+ -tB:\Tools %HBCD%\HBCD\WinTools\files\SmitfraudFix process.exe
+uharc e -y+ -tB:\Tools %HBCD%\HBCD\WinTools\files\SUPERAntiSpyware msvcr71.dll
+uharc x -y+ -t"%ProgramFiles%\IrfanView" %HBCD%\HBCD\WinTools\files\IrfanView
+uharc e -y+ -tB:\Tools %HBCD%\HBCD\quickvie qv.*
+if not exist %HBCD%\HBCD\WinTools\Files\ERD.uha attrib +s +h "%UserProfile%\Start Menu\Programs\ERD Commander"
+hiderun /w cmd.exe /c start "" /B /Dx:\ /MIN /LOW /WAIT compact.exe /C /s:X:\ /i /q
+echo @call hbdrv>%TEMP%\Xp-Autorun.cmd
+echo @chdir /d %HBCD%\HBCD>>%TEMP%\Xp-Autorun.cmd
+echo @start "" /MIN %HBCD%\HBCD\WinTools\Autorun.exe>>%TEMP%\Xp-Autorun.cmd
+echo @title XpAutorun>>%TEMP%\Xp-Autorun.cmd
+echo @%HBCD%\HBCD\XpAutorun.cmd>>%TEMP%\Xp-Autorun.cmd
+start "" /MIN /D"%TEMP%" "Xp-Autorun.cmd"
+del %systemroot%\system32\autorun*.cmd
