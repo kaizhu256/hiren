@@ -4,7 +4,7 @@ shMake () {(set -e
     rm -fr tmp/build
     mkdir -p tmp/build
     mv tmp/minixp.iso tmp/build
-    for FILE in .gitignore grldr menu.lst setupldr.bin
+    for FILE in .gitignore XPLOADER.BIN grldr menu.lst setupldr.bin
     do
         cp "$FILE" tmp/build
     done
