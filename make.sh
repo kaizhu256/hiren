@@ -4,9 +4,10 @@ shMake () {(set -e
     rm -fr tmp/build
     mkdir -p tmp/build
     mv tmp/minixp.iso tmp/build
-    cp grldr tmp/build
-    cp menu.lst tmp/build
-    cp setupldr.bin tmp/build
+    for FILE in .gitignore grldr menu.lst setupldr.bin
+    do
+        cp "$FILE" tmp/build
+    done
     (
     cd tmp/build
     utility2 shMkisofs winxp_bootcd grldr
