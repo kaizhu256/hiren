@@ -1,0 +1,3326 @@
+# 0
+s and Settings/Default User/Application Data/Microsoft/Internet Explorer/Quick Launch/Desktop.scf
+s and Settings/Default User/Application Data/Microsoft/Internet Explorer/Quick Launch/Prompt.lnk
+s and Settings/Default User/Application Data/Microsoft/Internet Explorer/Quick Launch/Windows Explorer.lnk
+s and Settings/Default User/Desktop/7-Zip File Manager.lnk
+s and Settings/Default User/Desktop/ClearTemp.cmd
+s and Settings/Default User/Desktop/Command prompt.lnk
+s and Settings/Default User/Desktop/HBCD Menu.lnk
+s and Settings/Default User/Desktop/Mount Removable.lnk
+s and Settings/Default User/Desktop/Network Support.lnk
+s and Settings/Default User/Desktop/Task Manager - ProcExp.lnk
+s and Settings/Default User/Desktop/Windows Explorer.lnk
+s and Settings/Default User/Start Menu/HBCD Menu.lnk
+s and Settings/Default User/Start Menu/Programs/7-Zip File Manager.lnk
+s and Settings/Default User/Start Menu/Programs/Check Disk.lnk
+s and Settings/Default User/Start Menu/Programs/Disk Management.lnk
+s and Settings/Default User/Start Menu/Programs/ERD Commander/Computer Management.lnk
+s and Settings/Default User/Start Menu/Programs/ERD Commander/Explorer.lnk
+s and Settings/Default User/Start Menu/Programs/Games/Five in a Row.lnk
+s and Settings/Default User/Start Menu/Programs/Games/Solitaire.lnk
+s and Settings/Default User/Start Menu/Programs/HBCD Menu.lnk
+s and Settings/Default User/Start Menu/Programs/Internet and Network support.lnk
+s and Settings/Default User/Start Menu/Programs/IrfanView Image Editor.lnk
+s and Settings/Default User/Start Menu/Programs/NotePad.lnk
+s and Settings/Default User/Start Menu/Programs/Remove 24 Hour Xp Limit.lnk
+s and Settings/Default User/Start Menu/Programs/Show USB-Hidden Drives after Plugging.lnk
+s and Settings/Default User/Start Menu/Programs/Task Manager.lnk
+s and Settings/Default User/Start Menu/Programs/Windows Explorer.lnk
+         0 bytes README.md
+    185989 bytes grldr
+       160 bytes i386/24hrLimit.cmd
+     48044 bytes i386/BIOSINFO.INF
+        89 bytes i386/CheckDisk.cmd
+        67 bytes i386/ERDCompMg.cmd
+        57 bytes i386/ERDExp.cmd
+     10976 bytes i386/Fonts/8514fix.fon
+     12288 bytes i386/Fonts/8514oem.fon
+      9280 bytes i386/Fonts/8514sys.fon
+     36672 bytes i386/Fonts/app850.fon
+     65692 bytes i386/Fonts/arial.ttf
+      6352 bytes i386/Fonts/cga40850.fon
+      6336 bytes i386/Fonts/cga40woa.fon
+      4320 bytes i386/Fonts/cga80850.fon
+      4304 bytes i386/Fonts/cga80woa.fon
+     23408 bytes i386/Fonts/coure.fon
+     31712 bytes i386/Fonts/courf.fon
+     36656 bytes i386/Fonts/dosapp.fon
+      8384 bytes i386/Fonts/ega40850.fon
+      8368 bytes i386/Fonts/ega40woa.fon
+      5328 bytes i386/Fonts/ega80850.fon
+      5312 bytes i386/Fonts/ega80woa.fon
+     24124 bytes i386/Fonts/marlett.ttf
+    254588 bytes i386/Fonts/micross.ttf
+     57936 bytes i386/Fonts/serife.fon
+     81728 bytes i386/Fonts/seriff.fon
+     26112 bytes i386/Fonts/smalle.fon
+     21504 bytes i386/Fonts/smallf.fon
+     64656 bytes i386/Fonts/sserife.fon
+     89856 bytes i386/Fonts/sseriff.fon
+      5232 bytes i386/Fonts/vga850.fon
+      5184 bytes i386/Fonts/vga860.fon
+      5200 bytes i386/Fonts/vga863.fon
+      5184 bytes i386/Fonts/vga865.fon
+      5360 bytes i386/Fonts/vgafix.fon
+      7280 bytes i386/Fonts/vgasys.fon
+        52 bytes i386/HeXd.cmd
+      7895 bytes i386/Inf/1394.inf
+      2505 bytes i386/Inf/61883.inf
+      2601 bytes i386/Inf/ANSM2KXP.INF
+      3232 bytes i386/Inf/ANSP2KXP.INF
+      2726 bytes i386/Inf/AX88172.INF
+     69953 bytes i386/Inf/DELL0325.inf
+     43202 bytes i386/Inf/DELL5132.inf
+      2950 bytes i386/Inf/DUBE100B.inf
+      6604 bytes i386/Inf/EG1032v3.inf
+     48991 bytes i386/Inf/FETNDIS.inf
+      5395 bytes i386/Inf/IAMT.inf
+     13910 bytes i386/Inf/JME.inf
+      9050 bytes i386/Inf/NETAN983.INF
+      2955 bytes i386/Inf/NETEL59X.INF
+      1887 bytes i386/Inf/NbXp834x.inf
+      3816 bytes i386/Inf/NbXpndis.inf
+    330797 bytes i386/Inf/Netrtle.inf
+     16272 bytes i386/Inf/SiSGbe.inf
+      8569 bytes i386/Inf/a1kxp32.inf
+      7390 bytes i386/Inf/agr1310.inf
+      2428 bytes i386/Inf/ax88140.inf
+      3101 bytes i386/Inf/ax88178.inf
+      4365 bytes i386/Inf/ax88180.inf
+      1469 bytes i386/Inf/ax88190.inf
+      2758 bytes i386/Inf/ax88772.inf
+      4388 bytes i386/Inf/ax88796b.inf
+     31881 bytes i386/Inf/b44win.inf
+    146042 bytes i386/Inf/b57win32.inf
+     14987 bytes i386/Inf/bxdiag.inf
+     55686 bytes i386/Inf/bxnd.inf
+      2966 bytes i386/Inf/bxois.inf
+     15434 bytes i386/Inf/bxvbd.inf
+     35450 bytes i386/Inf/cdrom.inf
+      2186 bytes i386/Inf/certclas.inf
+      3136 bytes i386/Inf/co2dpcx5.inf
+      4257 bytes i386/Inf/coget325.inf
+      2749 bytes i386/Inf/cousb2t5.inf
+      3114 bytes i386/Inf/cousbts5.inf
+      8349 bytes i386/Inf/ct200xn51.inf
+      5327 bytes i386/Inf/disk.inf
+      9332 bytes i386/Inf/dlknsnd5.inf
+      4607 bytes i386/Inf/dlkrcb.inf
+      2844 bytes i386/Inf/dm9usb.inf
+     91137 bytes i386/Inf/e1000325.inf
+     37570 bytes i386/Inf/e100a325.inf
+    115237 bytes i386/Inf/e100b325.inf
+     58102 bytes i386/Inf/e1e5132.inf
+     19863 bytes i386/Inf/e1k5132.inf
+     21138 bytes i386/Inf/e1k6232.inf
+     28851 bytes i386/Inf/e1q5132.inf
+     27783 bytes i386/Inf/e1q6232.inf
+     22985 bytes i386/Inf/e1y5132.inf
+     25134 bytes i386/Inf/e1y6232.INF
+      7051 bytes i386/Inf/eg1032v2.inf
+     25107 bytes i386/Inf/el2000x.inf
+      7785 bytes i386/Inf/el910.inf
+     32075 bytes i386/Inf/el99x_nt.inf
+      2176 bytes i386/Inf/en0100a.inf
+      3391 bytes i386/Inf/en2228.inf
+      1535 bytes i386/Inf/enum1394.inf
+      5772 bytes i386/Inf/ep320gtx.inf
+      1820 bytes i386/Inf/ep325.inf
+      1603 bytes i386/Inf/ep427.inf
+      1459 bytes i386/Inf/ep427x.inf
+      1964 bytes i386/Inf/ep427x2.inf
+      3334 bytes i386/Inf/fa120.inf
+      4697 bytes i386/Inf/fastnic.inf
+     16386 bytes i386/Inf/fei5132.inf
+     15361 bytes i386/Inf/fei6232.inf
+     12428 bytes i386/Inf/getndis.inf
+      7107 bytes i386/Inf/giganic.inf
+      6951 bytes i386/Inf/gignic.inf
+      4433 bytes i386/Inf/hidserv.inf
+     69990 bytes i386/Inf/input.inf
+     18168 bytes i386/Inf/ixe6232.inf
+     12348 bytes i386/Inf/ixgb325.inf
+     20560 bytes i386/Inf/k57win32.inf
+     43203 bytes i386/Inf/keyboard.inf
+      7992 bytes i386/Inf/l150x86.inf
+      8016 bytes i386/Inf/l151x86.inf
+     31697 bytes i386/Inf/l1c51x86.inf
+     13124 bytes i386/Inf/l1e51x86.inf
+      5194 bytes i386/Inf/l250x86.inf
+      5217 bytes i386/Inf/l251x86.inf
+      8127 bytes i386/Inf/lne100m.inf
+      4059 bytes i386/Inf/mn110.inf
+      6077 bytes i386/Inf/mn120.inf
+      6067 bytes i386/Inf/mn130.inf
+     31768 bytes i386/Inf/msmouse.inf
+      6151 bytes i386/Inf/nc100.inf
+      2423 bytes i386/Inf/ndisuio.inf
+      2652 bytes i386/Inf/net10.inf
+      3690 bytes i386/Inf/net100.inf
+      3495 bytes i386/Inf/net1208.inf
+      3186 bytes i386/Inf/net150.inf
+     20667 bytes i386/Inf/net21x4.inf
+      1795 bytes i386/Inf/net2212.inf
+      2588 bytes i386/Inf/net2216.inf
+      1372 bytes i386/Inf/net312.inf
+      7048 bytes i386/Inf/net3c985.inf
+      4244 bytes i386/Inf/net7xx.inf
+      2016 bytes i386/Inf/net8041.inf
+      3683 bytes i386/Inf/net80412.inf
+      4394 bytes i386/Inf/net8150.inf
+      8047 bytes i386/Inf/net83815.inf
+      6929 bytes i386/Inf/net83820.inf
+      7483 bytes i386/Inf/net851x.inf
+      9888 bytes i386/Inf/netacc07.inf
+     10384 bytes i386/Inf/netacc51.inf
+     18226 bytes i386/Inf/netamd.inf
+      6177 bytes i386/Inf/netamdhl.inf
+      6098 bytes i386/Inf/netaten.inf
+      5289 bytes i386/Inf/netcb100.inf
+      3571 bytes i386/Inf/netcb102.inf
+      4112 bytes i386/Inf/netcb103.inf
+     12283 bytes i386/Inf/netcbe.inf
+      6019 bytes i386/Inf/netcem56.inf
+     13225 bytes i386/Inf/netcpqi.inf
+      4361 bytes i386/Inf/netdge.inf
+      9562 bytes i386/Inf/netdl2x.inf
+      6028 bytes i386/Inf/netdlh5x.inf
+      4214 bytes i386/Inf/netdlkr5.inf
+      5649 bytes i386/Inf/netdlkrt.inf
+      7662 bytes i386/Inf/netdm9.inf
+     14427 bytes i386/Inf/netdma.inf
+      4976 bytes i386/Inf/netfa31x.inf
+      7394 bytes i386/Inf/netfa33x.inf
+      5833 bytes i386/Inf/netfa410.inf
+      3279 bytes i386/Inf/netfa411.inf
+      5836 bytes i386/Inf/netg3264.inf
+      6034 bytes i386/Inf/netga302.inf
+      4270 bytes i386/Inf/netga620.inf
+      5663 bytes i386/Inf/netga621.inf
+      6422 bytes i386/Inf/netipf.inf
+      6129 bytes i386/Inf/netipgd.inf
+      4752 bytes i386/Inf/netlnev5.inf
+      1998 bytes i386/Inf/netltxc.inf
+      8613 bytes i386/Inf/netm4cx.inf
+     25593 bytes i386/Inf/netmadge.inf
+     12037 bytes i386/Inf/netmscli.inf
+      1955 bytes i386/Inf/netnb.inf
+      2749 bytes i386/Inf/netnd51.inf
+      3882 bytes i386/Inf/netngr.inf
+     39698 bytes i386/Inf/netoem.inf
+    350458 bytes i386/Inf/netrtlx.inf
+      3253 bytes i386/Inf/netrtp5.inf
+      3359 bytes i386/Inf/netserv.inf
+      7716 bytes i386/Inf/netsmc55.inf
+      6422 bytes i386/Inf/netsmcez.inf
+     21675 bytes i386/Inf/nettcpip.inf
+      5635 bytes i386/Inf/netuli.inf
+      7691 bytes i386/Inf/netusr.inf
+      5737 bytes i386/Inf/netusr79.inf
+      3974 bytes i386/Inf/netwzc.inf
+      5469 bytes i386/Inf/nxpfa101.inf
+      3074 bytes i386/Inf/pciw2k.inf
+      6467 bytes i386/Inf/pcm200ha.inf
+      1942 bytes i386/Inf/pcmcard.inf
+      1801 bytes i386/Inf/sbp2.inf
+      9631 bytes i386/Inf/sisgbe_2.inf
+      4240 bytes i386/Inf/slnt.inf
+      3094 bytes i386/Inf/smartnic.inf
+      6103 bytes i386/Inf/smartnic2.inf
+      2613 bytes i386/Inf/smc2209.inf
+      7017 bytes i386/Inf/smc9452m.inf
+      7558 bytes i386/Inf/smc95x2.inf
+      6641 bytes i386/Inf/smcusb.inf
+     20623 bytes i386/Inf/usb.inf
+      3280 bytes i386/Inf/usb200m.inf
+     23708 bytes i386/Inf/usbport.inf
+     14578 bytes i386/Inf/usbstor.inf
+      1018 bytes i386/Inf/volume.inf
+     43538 bytes i386/Inf/w9x90xbc.inf
+     15154 bytes i386/Inf/w9xel90x.inf
+    243497 bytes i386/Inf/yk51x86.inf
+        52 bytes i386/Opera.cmd
+       520 bytes i386/Provisioning/Schemas/baseeapconnectionpropertiesv1.xdr
+       580 bytes i386/Provisioning/Schemas/baseeapuserpropertiesv1.xdr
+      1426 bytes i386/Provisioning/Schemas/branding.xdr
+       689 bytes i386/Provisioning/Schemas/eapconnectionpropertiesv1.xdr
+       378 bytes i386/Provisioning/Schemas/eapuserpropertiesv1.xdr
+      4089 bytes i386/Provisioning/Schemas/flashconfig.xdr
+      9924 bytes i386/Provisioning/Schemas/flashconfigdevice.xdr
+       732 bytes i386/Provisioning/Schemas/help.xdr
+      1721 bytes i386/Provisioning/Schemas/locations.xdr
+      2459 bytes i386/Provisioning/Schemas/masterfile.xdr
+       395 bytes i386/Provisioning/Schemas/mschapv2connectionpropertiesv1.xdr
+       861 bytes i386/Provisioning/Schemas/mschapv2userpropertiesv1.xdr
+      1911 bytes i386/Provisioning/Schemas/mspeapconnectionpropertiesv1.xdr
+       698 bytes i386/Provisioning/Schemas/mspeapuserpropertiesv1.xdr
+      1032 bytes i386/Provisioning/Schemas/register.xdr
+      1673 bytes i386/Provisioning/Schemas/ssid.xdr
+      2036 bytes i386/Provisioning/Schemas/wirelessprofile.xdr
+     22405 bytes i386/Provisioning/Schemas/wizard.xdr
+       121 bytes i386/SiS/900/0404.lng
+       219 bytes i386/SiS/900/040c.lng
+       188 bytes i386/SiS/900/0411.lng
+         0 bytes i386/SiS/900/uninst.exe
+     24576 bytes i386/System32/BCM42CTL.DLL
+     69632 bytes i386/System32/BCM42DB0.DLL
+     98304 bytes i386/System32/BCM42DIA.CPL
+     36864 bytes i386/System32/BCM42IOA.DLL
+     15604 bytes i386/System32/BCM42RLY.SYS
+     11276 bytes i386/System32/BCM42XHW.SYS
+     48044 bytes i386/System32/BIOSINFO.INF
+     60416 bytes i386/System32/CABINET.DLL
+     18048 bytes i386/System32/DM9Inst.DLL
+     61440 bytes i386/System32/EL2K_CPP.dll
+    179805 bytes i386/System32/HardlinkShellExt.dll
+       568 bytes i386/System32/IAMT.din
+    144384 bytes i386/System32/IMAGEHLP.DLL
+      6144 bytes i386/System32/KBDBE.DLL
+      6144 bytes i386/System32/KBDBR.DLL
+      5632 bytes i386/System32/KBDBU.DLL
+      6144 bytes i386/System32/KBDDA.DLL
+      6144 bytes i386/System32/KBDFI.DLL
+      6144 bytes i386/System32/KBDFR.DLL
+      6144 bytes i386/System32/KBDGR.DLL
+      5632 bytes i386/System32/KBDIT.DLL
+      6656 bytes i386/System32/KBDLA.DLL
+      6144 bytes i386/System32/KBDNE.DLL
+      6144 bytes i386/System32/KBDNO.DLL
+      6656 bytes i386/System32/KBDPL.DLL
+      6144 bytes i386/System32/KBDPO.DLL
+      5632 bytes i386/System32/KBDRU.DLL
+      6656 bytes i386/System32/KBDSG.DLL
+      6656 bytes i386/System32/KBDSL.DLL
+      6144 bytes i386/System32/KBDSP.DLL
+      6144 bytes i386/System32/KBDSW.DLL
+      5632 bytes i386/System32/KBDUK.DLL
+      5632 bytes i386/System32/KBDUS.DLL
+    706048 bytes i386/System32/NTDLL.DLL
+     28536 bytes i386/System32/NicCo.dll
+     28272 bytes i386/System32/NicCo2.dll
+     28272 bytes i386/System32/NicCo26.dll
+     28792 bytes i386/System32/NicCo36.dll
+     63352 bytes i386/System32/NicEtCo.dll
+     66424 bytes i386/System32/NicEtCoE.dll
+     44664 bytes i386/System32/NicIn100.dll
+     35704 bytes i386/System32/NicInst.dll
+     62840 bytes i386/System32/NicInstE.dll
+     41080 bytes i386/System32/NicInstG.dll
+     62656 bytes i386/System32/NicInstK.dll
+     61632 bytes i386/System32/NicInstY.dll
+     16384 bytes i386/System32/OpenWith.exe
+     45568 bytes i386/System32/PELoader.exe
+    779657 bytes i386/System32/PENetwork.exe
+     15438 bytes i386/System32/PENetwork_Eng.lng
+         0 bytes i386/System32/Prounstl.exe
+       729 bytes i386/System32/RamDisk.cmd
+     45056 bytes i386/System32/RamStatus.exe
+       279 bytes i386/System32/ResetAttribs.cmd
+       303 bytes i386/System32/ResetNTFSPermissions.cmd
+         0 bytes i386/System32/RtNicProp32.dll
+     28672 bytes i386/System32/ShowDrive.exe
+      5120 bytes i386/System32/ShutdownRes.dll
+    129536 bytes i386/System32/acledit.dll
+    115712 bytes i386/System32/aclui.dll
+    193536 bytes i386/System32/activeds.dll
+    111104 bytes i386/System32/activeds.tlb
+    175616 bytes i386/System32/adsldp.dll
+    143360 bytes i386/System32/adsldpc.dll
+     68096 bytes i386/System32/adsmsext.dll
+    263680 bytes i386/System32/adsnt.dll
+    617472 bytes i386/System32/advapi32.dll
+     99840 bytes i386/System32/advpack.dll
+     17408 bytes i386/System32/alrsvc.dll
+      9029 bytes i386/System32/ansi.sys
+    125952 bytes i386/System32/apphelp.dll
+     58880 bytes i386/System32/atl.dll
+     12288 bytes i386/System32/attrib.exe
+     62464 bytes i386/System32/authz.dll
+      1688 bytes i386/System32/autoexec.nt
+       948 bytes i386/System32/autorun.cmd
+     64000 bytes i386/System32/avicap32.dll
+    109456 bytes i386/System32/avifile.dll
+     52736 bytes i386/System32/basesrv.dll
+     29184 bytes i386/System32/batmeter.dll
+     12288 bytes i386/System32/bootvid.dll
+     63488 bytes i386/System32/browselc.dll
+     77824 bytes i386/System32/browser.dll
+   1025024 bytes i386/System32/browseui.dll
+     38400 bytes i386/System32/bxndcox.dll
+     66082 bytes i386/System32/c_037.nls
+     66082 bytes i386/System32/c_10000.nls
+     66082 bytes i386/System32/c_10079.nls
+     66082 bytes i386/System32/c_1252.nls
+     66082 bytes i386/System32/c_20127.nls
+     66082 bytes i386/System32/c_28591.nls
+     66082 bytes i386/System32/c_28605.nls
+     66594 bytes i386/System32/c_437.nls
+     66082 bytes i386/System32/c_500.nls
+     66594 bytes i386/System32/c_850.nls
+     66594 bytes i386/System32/c_860.nls
+     66594 bytes i386/System32/c_861.nls
+     66594 bytes i386/System32/c_863.nls
+     66594 bytes i386/System32/c_865.nls
+     19968 bytes i386/System32/cacls.exe
+    194560 bytes i386/System32/certcli.dll
+     16896 bytes i386/System32/cfgmgr32.dll
+     11776 bytes i386/System32/chkdsk.exe
+     10752 bytes i386/System32/clb.dll
+    498688 bytes i386/System32/clbcatq.dll
+     58368 bytes i386/System32/clusapi.dll
+    389120 bytes i386/System32/cmd.exe
+    185344 bytes i386/System32/cmprops.dll
+      3584 bytes i386/System32/comcat.dll
+    617472 bytes i386/System32/comctl32.dll
+    276992 bytes i386/System32/comdlg32.dll
+     10544 bytes i386/System32/comm.drv
+     50620 bytes i386/System32/command.com
+     32816 bytes i386/System32/commdlg.dll
+     17408 bytes i386/System32/compact.exe
+     30160 bytes i386/System32/compobj.dll
+    792064 bytes i386/System32/comres.dll
+    167424 bytes i386/System32/comsnap.dll
+      2577 bytes i386/System32/config.nt
+    135168 bytes i386/System32/config/default
+      8192 bytes i386/System32/config/sam
+      8192 bytes i386/System32/config/security
+   1835008 bytes i386/System32/config/software
+     27097 bytes i386/System32/country.sys
+    163840 bytes i386/System32/credui.dll
+    149019 bytes i386/System32/crtdll.dll
+    599040 bytes i386/System32/crypt32.dll
+     33280 bytes i386/System32/cryptdll.dll
+    512512 bytes i386/System32/cryptui.dll
+    326656 bytes i386/System32/cscui.dll
+     32256 bytes i386/System32/csrsrv.dll
+      6144 bytes i386/System32/csrss.exe
+     27200 bytes i386/System32/ctl3dv2.dll
+      8386 bytes i386/System32/ctype.nls
+     39424 bytes i386/System32/ddeml.dll
+    135168 bytes i386/System32/desk.cpl
+     16384 bytes i386/System32/deskadp.dll
+     16896 bytes i386/System32/deskmon.dll
+     18432 bytes i386/System32/deskperf.dll
+     33079 bytes i386/System32/devmgmt.msc
+    256512 bytes i386/System32/devmgr.dll
+    126976 bytes i386/System32/dhcpcsvc.dll
+     15360 bytes i386/System32/diskcopy.dll
+     33673 bytes i386/System32/diskmgmt.msc
+    163840 bytes i386/System32/diskpart.exe
+    224768 bytes i386/System32/dmadmin.exe
+    285184 bytes i386/System32/dmdlgs.dll
+    200704 bytes i386/System32/dmdskmgr.dll
+    118784 bytes i386/System32/dmdskres.dll
+     18432 bytes i386/System32/dmintf.dll
+     19456 bytes i386/System32/dmocx.dll
+     15872 bytes i386/System32/dmremote.exe
+     23552 bytes i386/System32/dmserver.dll
+     52224 bytes i386/System32/dmutil.dll
+     61440 bytes i386/System32/dmview.ocx
+    147968 bytes i386/System32/dnsapi.dll
+     45568 bytes i386/System32/dnsrslvr.dll
+     53840 bytes i386/System32/dosx.exe
+     26112 bytes i386/System32/dot3api.dll
+      9216 bytes i386/System32/dot3dlg.dll
+     53376 bytes i386/System32/drivers/1394bus.sys
+     72192 bytes i386/System32/drivers/3wareDr2.sys
+    120832 bytes i386/System32/drivers/3wareDrv.sys
+     48128 bytes i386/System32/drivers/61883.sys
+     23661 bytes i386/System32/drivers/ACC07D.sys
+     26493 bytes i386/System32/drivers/ADM851x.SYS
+     31566 bytes i386/System32/drivers/AEC6880.sys
+     70144 bytes i386/System32/drivers/AGR1310_51.sys
+     18415 bytes i386/System32/drivers/AX88140.sys
+     16624 bytes i386/System32/drivers/AX88190.sys
+     17920 bytes i386/System32/drivers/AX88796B.sys
+     57845 bytes i386/System32/drivers/BCM42XX5.SYS
+     26404 bytes i386/System32/drivers/CB103ND5.sys
+     16849 bytes i386/System32/drivers/CO2DPCX5.sys
+     19854 bytes i386/System32/drivers/COUSB2T5.SYS
+     24109 bytes i386/System32/drivers/COUSBTS5.sys
+    250240 bytes i386/System32/drivers/CT200xN51.sys
+     60372 bytes i386/System32/drivers/DGEND5.sys
+     33138 bytes i386/System32/drivers/DLKNSND5.SYS
+     25434 bytes i386/System32/drivers/DLKRCB.SYS
+     65280 bytes i386/System32/drivers/DLKRTGB.SYS
+     45568 bytes i386/System32/drivers/DLKRTS.SYS
+     33280 bytes i386/System32/drivers/DM9PCI5.SYS
+     32768 bytes i386/System32/drivers/DM9eth5.SYS
+     18432 bytes i386/System32/drivers/DP83815.sys
+     35584 bytes i386/System32/drivers/DP83820.sys
+     18560 bytes i386/System32/drivers/DUBE100B.sys
+     46155 bytes i386/System32/drivers/EG103264.sys
+    137600 bytes i386/System32/drivers/EG1032v2.sys
+     71040 bytes i386/System32/drivers/EG1032xp.sys
+    147456 bytes i386/System32/drivers/EL2K_XP.sys
+     38400 bytes i386/System32/drivers/EL910N51.sys
+    138240 bytes i386/System32/drivers/EL99XN51.SYS
+     44524 bytes i386/System32/drivers/EL99XRUN.OUT
+     21063 bytes i386/System32/drivers/EN1208.sys
+     17280 bytes i386/System32/drivers/EN2212.sys
+     20480 bytes i386/System32/drivers/EN2228.sys
+     39428 bytes i386/System32/drivers/EP320GTX.sys
+     15392 bytes i386/System32/drivers/EP427X.sys
+     15904 bytes i386/System32/drivers/EP427X2.SYS
+     24555 bytes i386/System32/drivers/FA101ND5.SYS
+     14048 bytes i386/System32/drivers/FA120.sys
+     16025 bytes i386/System32/drivers/FA31xND5.SYS
+     22040 bytes i386/System32/drivers/FA33XND5.SYS
+     16512 bytes i386/System32/drivers/FA411ND5.sys
+     38528 bytes i386/System32/drivers/FastNIC.sys
+     44511 bytes i386/System32/drivers/GA621ND5.SYS
+    169856 bytes i386/System32/drivers/GigNIC.sys
+    169856 bytes i386/System32/drivers/GigaNIC.sys
+     47496 bytes i386/System32/drivers/IAMTXP.sys
+    330264 bytes i386/System32/drivers/IaStor.sys
+     68336 bytes i386/System32/drivers/JME.sys
+     92288 bytes i386/System32/drivers/KSECDD.SYS
+     25165 bytes i386/System32/drivers/MN110-50.SYS
+     38400 bytes i386/System32/drivers/MN120-51.sys
+     38400 bytes i386/System32/drivers/MN130-51.sys
+    163277 bytes i386/System32/drivers/MegaIDE.sys
+     24320 bytes i386/System32/drivers/Mraid35x.sys
+     25156 bytes i386/System32/drivers/NC100.sys
+     16746 bytes i386/System32/drivers/ND5100.sys
+    574976 bytes i386/System32/drivers/NTFS.SYS
+    103072 bytes i386/System32/drivers/NetB834x.sys
+     22048 bytes i386/System32/drivers/NetBEdge.sys
+     32840 bytes i386/System32/drivers/Ngrpci.sys
+     25440 bytes i386/System32/drivers/PCIWNT.SYS
+     22016 bytes i386/System32/drivers/PCMNDIS.sys
+     36352 bytes i386/System32/drivers/PCNTPCI5.sys
+     20456 bytes i386/System32/drivers/PMNDIS3.sys
+     19017 bytes i386/System32/drivers/RTL8029.sys
+    177152 bytes i386/System32/drivers/Rtenicxp.sys
+    130432 bytes i386/System32/drivers/Rtnicxp.sys
+     36864 bytes i386/System32/drivers/S150sx8.sys
+     47320 bytes i386/System32/drivers/SI3112.sys
+     62336 bytes i386/System32/drivers/SI31122.sys
+    102528 bytes i386/System32/drivers/SI3112r.sys
+     61952 bytes i386/System32/drivers/SI3114.sys
+    103168 bytes i386/System32/drivers/SI3114r.sys
+     69120 bytes i386/System32/drivers/SI3124.sys
+    100881 bytes i386/System32/drivers/SI3124r.sys
+     67712 bytes i386/System32/drivers/SI3132.sys
+     10624 bytes i386/System32/drivers/SMC2209.sys
+     39040 bytes i386/System32/drivers/SMC55T51.sys
+     14550 bytes i386/System32/drivers/SMC8041.sys
+     20292 bytes i386/System32/drivers/SMC80412.sys
+     83072 bytes i386/System32/drivers/SMC95X2.SYS
+     38528 bytes i386/System32/drivers/SMCEZ251.sys
+     25260 bytes i386/System32/drivers/SMCUSB.sys
+    195072 bytes i386/System32/drivers/Si3114r5.sys
+    190976 bytes i386/System32/drivers/Si3124r5.sys
+    201728 bytes i386/System32/drivers/Si3132r5.sys
+    124672 bytes i386/System32/drivers/SiSGbeXP.sys
+     28672 bytes i386/System32/drivers/ULILAN51.SYS
+     23938 bytes i386/System32/drivers/USB150.SYS
+     14208 bytes i386/System32/drivers/USB200M.sys
+     33264 bytes i386/System32/drivers/USBENET.SYS
+     36096 bytes i386/System32/drivers/USR7900.sys
+     20292 bytes i386/System32/drivers/USRPCM.sys
+     69632 bytes i386/System32/drivers/Usr_xp.sys
+     82688 bytes i386/System32/drivers/a1kxp32.sys
+     50408 bytes i386/System32/drivers/aac.sys
+    186880 bytes i386/System32/drivers/aar1210.sys
+    199168 bytes i386/System32/drivers/aarich.sys
+      3712 bytes i386/System32/drivers/accgain.sys
+    187776 bytes i386/System32/drivers/acpi.sys
+     11648 bytes i386/System32/drivers/acpiec.sys
+    138112 bytes i386/System32/drivers/afd.sys
+    174600 bytes i386/System32/drivers/ahcix86.sys
+      5248 bytes i386/System32/drivers/aliide.sys
+     36224 bytes i386/System32/drivers/an983.sys
+     13312 bytes i386/System32/drivers/arcm_x86.sys
+     96512 bytes i386/System32/drivers/atapi.sys
+     59904 bytes i386/System32/drivers/atmarpc.sys
+     11264 bytes i386/System32/drivers/ax88172.sys
+     26880 bytes i386/System32/drivers/ax88178.sys
+     14679 bytes i386/System32/drivers/ax88180.sys
+     19072 bytes i386/System32/drivers/ax88772.sys
+    213544 bytes i386/System32/drivers/b57xp32.sys
+     45568 bytes i386/System32/drivers/bcm4sbxp.sys
+      4224 bytes i386/System32/drivers/beep.sys
+     81568 bytes i386/System32/drivers/bxdiagx.sys
+     65576 bytes i386/System32/drivers/bxnd52x.sys
+    578600 bytes i386/System32/drivers/bxois.sys
+    441896 bytes i386/System32/drivers/bxvbdx.sys
+     66464 bytes i386/System32/drivers/cb100nds.sys
+     42816 bytes i386/System32/drivers/cb102.sys
+     50498 bytes i386/System32/drivers/cben5.sys
+     63744 bytes i386/System32/drivers/cdfs.sys
+     62976 bytes i386/System32/drivers/cdrom.sys
+     27622 bytes i386/System32/drivers/cem56n5.sys
+     39904 bytes i386/System32/drivers/cercsr6.sys
+     49536 bytes i386/System32/drivers/classpnp.sys
+      6656 bytes i386/System32/drivers/cmdide.sys
+     88192 bytes i386/System32/drivers/coget325.sys
+     64880 bytes i386/System32/drivers/dc21x4.sys
+     16896 bytes i386/System32/drivers/dc_fsf.sys
+    141824 bytes i386/System32/drivers/dcrypt.sys
+     36352 bytes i386/System32/drivers/disk.sys
+     34852 bytes i386/System32/drivers/dl2xd50.sys
+     40484 bytes i386/System32/drivers/dlh5xnd5.sys
+     21376 bytes i386/System32/drivers/dm9usb.sys
+    799744 bytes i386/System32/drivers/dmboot.sys
+    153344 bytes i386/System32/drivers/dmio.sys
+      5888 bytes i386/System32/drivers/dmload.sys
+     20256 bytes i386/System32/drivers/dpti2o.sys
+      3073 bytes i386/System32/drivers/dummy.sys
+     10496 bytes i386/System32/drivers/dxapi.sys
+     71168 bytes i386/System32/drivers/dxg.sys
+      3328 bytes i386/System32/drivers/dxgthk.sys
+    171152 bytes i386/System32/drivers/e1000325.sys
+    165272 bytes i386/System32/drivers/e1000nt5.sys
+    165496 bytes i386/System32/drivers/e100b325.sys
+    235928 bytes i386/System32/drivers/e1e5032.sys
+    241296 bytes i386/System32/drivers/e1e5132.sys
+    160424 bytes i386/System32/drivers/e1k5132.sys
+    208552 bytes i386/System32/drivers/e1k6232.sys
+    159400 bytes i386/System32/drivers/e1q5132.sys
+    200872 bytes i386/System32/drivers/e1q6232.sys
+    239760 bytes i386/System32/drivers/e1y5132.sys
+    221912 bytes i386/System32/drivers/e1y6232.sys
+     26976 bytes i386/System32/drivers/eh10nds.sys
+     39184 bytes i386/System32/drivers/el59x.sys
+     77463 bytes i386/System32/drivers/el90Xbc5.SYS
+    156020 bytes i386/System32/drivers/el90xnd5.SYS
+    590044 bytes i386/System32/drivers/el985n51.sys
+     17408 bytes i386/System32/drivers/en2216.sys
+    133632 bytes i386/System32/drivers/exfat.sys
+     24555 bytes i386/System32/drivers/fa410nd5.sys
+    143744 bytes i386/System32/drivers/fastfat.sys
+     27392 bytes i386/System32/drivers/fdc.sys
+    158408 bytes i386/System32/drivers/fei5132.sys
+    158408 bytes i386/System32/drivers/fei6232.sys
+     43520 bytes i386/System32/drivers/fetnd5bv.sys
+     20480 bytes i386/System32/drivers/flpydisk.sys
+    129792 bytes i386/System32/drivers/fltmgr.sys
+      9216 bytes i386/System32/drivers/fs_rec.sys
+    125056 bytes i386/System32/drivers/ftdisk.sys
+     81152 bytes i386/System32/drivers/ga302nd5.sys
+    520384 bytes i386/System32/drivers/ga620nd5.sys
+     46080 bytes i386/System32/drivers/getnd5bv.sys
+     36864 bytes i386/System32/drivers/hidclass.sys
+     24960 bytes i386/System32/drivers/hidparse.sys
+     10368 bytes i386/System32/drivers/hidusb.sys
+     41957 bytes i386/System32/drivers/hpt3xx.sys
+    168064 bytes i386/System32/drivers/hptmv.sys
+     93696 bytes i386/System32/drivers/hptmv6.sys
+     52480 bytes i386/System32/drivers/i8042prt.sys
+    874240 bytes i386/System32/drivers/iaSto2.sys
+    247808 bytes i386/System32/drivers/iaSto3.sys
+     64096 bytes i386/System32/drivers/iansmsg.dll
+    116360 bytes i386/System32/drivers/ianswxp.sys
+     19968 bytes i386/System32/drivers/imdisk.sys
+      5504 bytes i386/System32/drivers/intelide.sys
+     26752 bytes i386/System32/drivers/ipfnd51.sys
+     33408 bytes i386/System32/drivers/ipgdnd51.sys
+     75264 bytes i386/System32/drivers/ipsec.sys
+     37248 bytes i386/System32/drivers/isapnp.sys
+    183264 bytes i386/System32/drivers/ixe6232.sys
+     66424 bytes i386/System32/drivers/ixgb3251.sys
+    213544 bytes i386/System32/drivers/k57xp32.sys
+     24576 bytes i386/System32/drivers/kbdclass.sys
+     14592 bytes i386/System32/drivers/kbdhid.sys
+     36224 bytes i386/System32/drivers/l150x86.sys
+     37888 bytes i386/System32/drivers/l151x86.sys
+     57384 bytes i386/System32/drivers/l1c51x86.sys
+     46632 bytes i386/System32/drivers/l1e51x86.sys
+     28928 bytes i386/System32/drivers/l250x86.sys
+     30720 bytes i386/System32/drivers/l251x86.sys
+     26624 bytes i386/System32/drivers/lgytxc.sys
+     40448 bytes i386/System32/drivers/lne100m.sys
+     36224 bytes i386/System32/drivers/lne100v5.sys
+    171264 bytes i386/System32/drivers/m4cxwxp.sys
+     51072 bytes i386/System32/drivers/m5281.sys
+    103680 bytes i386/System32/drivers/m5287.sys
+    209536 bytes i386/System32/drivers/m5288.sys
+     52480 bytes i386/System32/drivers/m5289.sys
+      7680 bytes i386/System32/drivers/mcd.sys
+    178370 bytes i386/System32/drivers/mdgndis5.sys
+      4224 bytes i386/System32/drivers/mnmdd.sys
+     23040 bytes i386/System32/drivers/mouclass.sys
+     12160 bytes i386/System32/drivers/mouhid.sys
+     42368 bytes i386/System32/drivers/mountmgr.sys
+    456576 bytes i386/System32/drivers/mrxsmb.sys
+    105344 bytes i386/System32/drivers/mup.sys
+     24132 bytes i386/System32/drivers/mxnic.sys
+    163328 bytes i386/System32/drivers/n100325.sys
+    182656 bytes i386/System32/drivers/ndis.sys
+     14592 bytes i386/System32/drivers/ndisuio.sys
+     24128 bytes i386/System32/drivers/ne2000.sys
+     34688 bytes i386/System32/drivers/netbios.sys
+    162816 bytes i386/System32/drivers/netbt.sys
+     30848 bytes i386/System32/drivers/npfs.sys
+      2944 bytes i386/System32/drivers/null.sys
+    105344 bytes i386/System32/drivers/nvata.sys
+     89216 bytes i386/System32/drivers/nvraid.sys
+     61696 bytes i386/System32/drivers/ohci1394.sys
+      3456 bytes i386/System32/drivers/oprghdlr.sys
+     19712 bytes i386/System32/drivers/partmgr.sys
+     68224 bytes i386/System32/drivers/pci.sys
+      3328 bytes i386/System32/drivers/pciide.sys
+     24960 bytes i386/System32/drivers/pciidex.sys
+     40756 bytes i386/System32/drivers/pcntn5hl.sys
+     22528 bytes i386/System32/drivers/ramdisk.sys
+    175744 bytes i386/System32/drivers/rdbss.sys
+     93056 bytes i386/System32/drivers/rr2310.sys
+     92928 bytes i386/System32/drivers/rr2320.sys
+     15872 bytes i386/System32/drivers/rtl8019.sys
+     21504 bytes i386/System32/drivers/rtl8150.SYS
+     43904 bytes i386/System32/drivers/sbp2port.sys
+     96384 bytes i386/System32/drivers/scsiport.sys
+    493696 bytes i386/System32/drivers/setupdd.sys
+     11392 bytes i386/System32/drivers/sfloppy.sys
+     32768 bytes i386/System32/drivers/sisnicxp.sys
+     11136 bytes i386/System32/drivers/slip.sys
+     18004 bytes i386/System32/drivers/slnt.sys
+     35694 bytes i386/System32/drivers/smartnic.sys
+    169856 bytes i386/System32/drivers/smc9452m.sys
+     24395 bytes i386/System32/drivers/sn2.sys
+      3456 bytes i386/System32/drivers/spddlang.sys
+    334848 bytes i386/System32/drivers/srv.sys
+    361344 bytes i386/System32/drivers/tcpip.sys
+     19072 bytes i386/System32/drivers/tdi.sys
+     32221 bytes i386/System32/drivers/tx100nd5.sys
+     66048 bytes i386/System32/drivers/udfs.sys
+     73984 bytes i386/System32/drivers/ulsata.sys
+    125952 bytes i386/System32/drivers/ulsata2.sys
+     32128 bytes i386/System32/drivers/usbccgp.sys
+      4736 bytes i386/System32/drivers/usbd.sys
+     30208 bytes i386/System32/drivers/usbehci.sys
+     59520 bytes i386/System32/drivers/usbhub.sys
+     17152 bytes i386/System32/drivers/usbohci.sys
+    143872 bytes i386/System32/drivers/usbport.sys
+     26368 bytes i386/System32/drivers/usbstor.sys
+     20608 bytes i386/System32/drivers/usbuhci.sys
+     20992 bytes i386/System32/drivers/vga.sys
+      5376 bytes i386/System32/drivers/viaide.sys
+     92672 bytes i386/System32/drivers/viamraid.sys
+     81664 bytes i386/System32/drivers/videoprt.sys
+     52352 bytes i386/System32/drivers/volsnap.sys
+    131000 bytes i386/System32/drivers/wimfltr.sys
+      4352 bytes i386/System32/drivers/wmilib.sys
+    299008 bytes i386/System32/drivers/yk51x86.sys
+    142848 bytes i386/System32/dsprop.dll
+    239104 bytes i386/System32/dsquery.dll
+    113152 bytes i386/System32/dsuiext.dll
+    304128 bytes i386/System32/duser.dll
+       812 bytes i386/System32/e1000325.din
+    179048 bytes i386/System32/e1000msg.dll
+       739 bytes i386/System32/e1000nt5.din
+      1830 bytes i386/System32/e100b325.din
+     35424 bytes i386/System32/e100bmsg.dll
+       771 bytes i386/System32/e1e5032.din
+       828 bytes i386/System32/e1e5132.din
+       737 bytes i386/System32/e1k5132.din
+       687 bytes i386/System32/e1k6232.din
+     72288 bytes i386/System32/e1kmsg.dll
+       703 bytes i386/System32/e1q5132.din
+       671 bytes i386/System32/e1q6232.din
+     60000 bytes i386/System32/e1qmsg.dll
+       864 bytes i386/System32/e1y5132.din
+       676 bytes i386/System32/e1y6232.din
+     30720 bytes i386/System32/eapolqec.dll
+    126976 bytes i386/System32/eappcfg.dll
+     40960 bytes i386/System32/eappprxy.dll
+    127213 bytes i386/System32/ega.cpi
+    246272 bytes i386/System32/es.dll
+     56320 bytes i386/System32/eventlog.dll
+     15872 bytes i386/System32/expand.exe
+      1640 bytes i386/System32/fei5132.din
+      1640 bytes i386/System32/fei6232.din
+      9216 bytes i386/System32/find.exe
+     27136 bytes i386/System32/findstr.exe
+     16896 bytes i386/System32/fltlib.dll
+     23040 bytes i386/System32/fltmc.exe
+     18944 bytes i386/System32/fmifs.dll
+     30720 bytes i386/System32/format.com
+      9344 bytes i386/System32/framebuf.dll
+     56320 bytes i386/System32/fsutil.exe
+     24576 bytes i386/System32/gdi.exe
+    285184 bytes i386/System32/gdi32.dll
+    383488 bytes i386/System32/ginaorg.dll
+    105344 bytes i386/System32/hal.dll
+    131840 bytes i386/System32/halaacpi.dll
+     81152 bytes i386/System32/halacpi.dll
+    150528 bytes i386/System32/halapic.dll
+    134400 bytes i386/System32/halmacpi.dll
+    152576 bytes i386/System32/halmps.dll
+     77696 bytes i386/System32/halsp.dll
+      1662 bytes i386/System32/hbcd.ico
+      7168 bytes i386/System32/hccoin.dll
+     41472 bytes i386/System32/hhsetup.dll
+     20992 bytes i386/System32/hid.dll
+      1536 bytes i386/System32/hiderun.exe
+     21504 bytes i386/System32/hidserv.dll
+      4768 bytes i386/System32/himem.sys
+    344064 bytes i386/System32/hnetcfg.dll
+       929 bytes i386/System32/homepage.inf
+    144896 bytes i386/System32/hotplug.dll
+      3584 bytes i386/System32/icmp.dll
+     54784 bytes i386/System32/icmui.dll
+    216576 bytes i386/System32/ieaksie.dll
+     48640 bytes i386/System32/iernonce.dll
+     62976 bytes i386/System32/iesetup.dll
+     77824 bytes i386/System32/ifsutil.dll
+     80384 bytes i386/System32/imdisk.cpl
+     35840 bytes i386/System32/imdisk.exe
+     10240 bytes i386/System32/imdsksvc.exe
+    110080 bytes i386/System32/imm32.dll
+     94720 bytes i386/System32/iphlpapi.dll
+       671 bytes i386/System32/ixe6232.din
+     60072 bytes i386/System32/ixemsg.dll
+       706 bytes i386/System32/ixgb3251.din
+     51808 bytes i386/System32/ixgbmsg.dll
+      7040 bytes i386/System32/kdcom.dll
+    299520 bytes i386/System32/kerberos.dll
+    989696 bytes i386/System32/kernel32.dll
+      2000 bytes i386/System32/keyboard.drv
+     46592 bytes i386/System32/keyboard.exe
+     42537 bytes i386/System32/keyboard.sys
+     92224 bytes i386/System32/krnl386.exe
+      7046 bytes i386/System32/l_intl.nls
+    221600 bytes i386/System32/lanman.drv
+     13824 bytes i386/System32/lmhsvc.dll
+    265948 bytes i386/System32/locale.nls
+    221696 bytes i386/System32/localsec.dll
+     75264 bytes i386/System32/locator.exe
+     22016 bytes i386/System32/lpk.dll
+    728064 bytes i386/System32/lsasrv.dll
+     13312 bytes i386/System32/lsass.exe
+      2560 bytes i386/System32/lz32.dll
+      9936 bytes i386/System32/lzexpand.dll
+     73376 bytes i386/System32/mciavi.drv
+     25264 bytes i386/System32/mciseq.drv
+     28160 bytes i386/System32/mciwave.drv
+     64350 bytes i386/System32/mdgndis.hlp
+    981760 bytes i386/System32/mfc42u.dll
+    673088 bytes i386/System32/mlang.dat
+    586240 bytes i386/System32/mlang.dll
+      3584 bytes i386/System32/mll_hp.dll
+      7680 bytes i386/System32/mll_mtf.dll
+      5632 bytes i386/System32/mll_qic.dll
+   1414656 bytes i386/System32/mmc.exe
+    163328 bytes i386/System32/mmcbase.dll
+   1851392 bytes i386/System32/mmcndmgr.dll
+     61440 bytes i386/System32/mmcshext.dll
+     68768 bytes i386/System32/mmsystem.dll
+      2032 bytes i386/System32/mouse.drv
+     59904 bytes i386/System32/mpr.dll
+     47104 bytes i386/System32/mprui.dll
+     61168 bytes i386/System32/msacm.dll
+     57344 bytes i386/System32/msasn1.dll
+       817 bytes i386/System32/mscdexnt.exe
+     73728 bytes i386/System32/mscms.dll
+     37888 bytes i386/System32/msgina.dll
+     33792 bytes i386/System32/msgsvc.dll
+      4608 bytes i386/System32/msimg32.dll
+    146432 bytes i386/System32/msls31.dll
+     48128 bytes i386/System32/msprivs.dll
+    132608 bytes i386/System32/msv1_0.dll
+    413696 bytes i386/System32/msvcp60.dll
+    343040 bytes i386/System32/msvcrt.dll
+    121344 bytes i386/System32/msvfw32.dll
+    126912 bytes i386/System32/msvideo.dll
+    245248 bytes i386/System32/mswsock.dll
+    506368 bytes i386/System32/msxml.dll
+    701440 bytes i386/System32/msxml2.dll
+     37916 bytes i386/System32/msxml2r.dll
+   1104896 bytes i386/System32/msxml3.dll
+     44032 bytes i386/System32/msxml3r.dll
+   1306624 bytes i386/System32/msxml6.dll
+     79872 bytes i386/System32/msxml6r.dll
+     26624 bytes i386/System32/msxmlr.dll
+     36352 bytes i386/System32/ncobjapi.dll
+     17920 bytes i386/System32/nddeapi.dll
+     42496 bytes i386/System32/net.exe
+    102446 bytes i386/System32/net.hlp
+    124928 bytes i386/System32/net1.exe
+    108464 bytes i386/System32/netapi.dll
+    337408 bytes i386/System32/netapi32.dll
+    622592 bytes i386/System32/netcfgx.dll
+    214016 bytes i386/System32/netevent.dll
+    407040 bytes i386/System32/netlogon.dll
+    171008 bytes i386/System32/netmsg.dll
+    875008 bytes i386/System32/netplwiz.dll
+     11776 bytes i386/System32/netrap.dll
+   1703936 bytes i386/System32/netshell.dll
+     80896 bytes i386/System32/netui0.dll
+    245760 bytes i386/System32/netui1.dll
+    308224 bytes i386/System32/netui2.dll
+    247808 bytes i386/System32/newdev.dll
+     27866 bytes i386/System32/ntdos.sys
+     29146 bytes i386/System32/ntdos404.sys
+     29370 bytes i386/System32/ntdos411.sys
+     29274 bytes i386/System32/ntdos412.sys
+     29146 bytes i386/System32/ntdos804.sys
+     67072 bytes i386/System32/ntdsapi.dll
+     33840 bytes i386/System32/ntio.sys
+     34560 bytes i386/System32/ntio404.sys
+     35648 bytes i386/System32/ntio411.sys
+     35424 bytes i386/System32/ntio412.sys
+     34560 bytes i386/System32/ntio804.sys
+     44032 bytes i386/System32/ntlanman.dll
+    118784 bytes i386/System32/ntmarta.dll
+     40960 bytes i386/System32/ntmsapi.dll
+   2188928 bytes i386/System32/ntoskrnl.exe
+    143360 bytes i386/System32/ntshrui.dll
+    420864 bytes i386/System32/ntvdm.exe
+     15360 bytes i386/System32/ntvdmd.dll
+    286208 bytes i386/System32/objsel.dll
+    249856 bytes i386/System32/odbc32.dll
+     24576 bytes i386/System32/odbcbcp.dll
+     94208 bytes i386/System32/odbcint.dll
+     39744 bytes i386/System32/ole2.dll
+    169520 bytes i386/System32/ole2disp.dll
+    153008 bytes i386/System32/ole2nls.dll
+   1287168 bytes i386/System32/ole32.dll
+    163328 bytes i386/System32/oleacc.dll
+     16896 bytes i386/System32/oleaccrc.dll
+    551936 bytes i386/System32/oleaut32.dll
+     82944 bytes i386/System32/olecli.dll
+    122880 bytes i386/System32/oledlg.dll
+     84992 bytes i386/System32/olepro32.dll
+     24064 bytes i386/System32/olesvr.dll
+    144384 bytes i386/System32/onex.dll
+     67584 bytes i386/System32/osuninst.dll
+     46592 bytes i386/System32/pmspl.dll
+    105472 bytes i386/System32/polstore.dll
+     17408 bytes i386/System32/powrprof.dll
+       888 bytes i386/System32/prep
+     27648 bytes i386/System32/profmap.dll
+     23040 bytes i386/System32/psapi.dll
+     76800 bytes i386/System32/qutil.dll
+     16384 bytes i386/System32/rassapi.dll
+      3338 bytes i386/System32/redir.exe
+     50176 bytes i386/System32/reg.exe
+     49664 bytes i386/System32/regapi.dll
+     11776 bytes i386/System32/regsvr32.exe
+      3584 bytes i386/System32/riched32.dll
+    584704 bytes i386/System32/rpcrt4.dll
+    399360 bytes i386/System32/rpcss.dll
+    208384 bytes i386/System32/rsaenh.dll
+     39936 bytes i386/System32/rshx32.dll
+     18944 bytes i386/System32/rsmps.dll
+     44032 bytes i386/System32/rtutils.dll
+     33280 bytes i386/System32/rundll32.exe
+     14336 bytes i386/System32/runonce.exe
+     64000 bytes i386/System32/samlib.dll
+    415744 bytes i386/System32/samsrv.dll
+    314880 bytes i386/System32/scesrv.dll
+    144384 bytes i386/System32/schannel.dll
+    172032 bytes i386/System32/scrrun.dll
+     56320 bytes i386/System32/secur32.dll
+     56320 bytes i386/System32/servdeps.dll
+    108544 bytes i386/System32/services.exe
+    985088 bytes i386/System32/setupapi.dll
+    397312 bytes i386/System32/setupreg.hiv
+     11776 bytes i386/System32/setx.exe
+       882 bytes i386/System32/share.exe
+    549376 bytes i386/System32/shdoclc.dll
+   1301504 bytes i386/System32/shdocvw.dll
+      5120 bytes i386/System32/shell.dll
+   8268800 bytes i386/System32/shell32.dll
+     25088 bytes i386/System32/shfolder.dll
+    474112 bytes i386/System32/shlwapi.dll
+    135168 bytes i386/System32/shsvcs.dll
+     50688 bytes i386/System32/smss.exe
+    262148 bytes i386/System32/sortkey.nls
+     23044 bytes i386/System32/sorttbls.nls
+      1744 bytes i386/System32/sound.drv
+     96768 bytes i386/System32/srvsvc.dll
+     66048 bytes i386/System32/startnet.exe
+     16896 bytes i386/System32/stdole2.tlb
+    121856 bytes i386/System32/stobject.dll
+      4208 bytes i386/System32/storage.dll
+     74752 bytes i386/System32/storprop.dll
+     14336 bytes i386/System32/svchost.exe
+    713216 bytes i386/System32/sxs.dll
+    300544 bytes i386/System32/sysdm.cpl
+    963072 bytes i386/System32/syssetup.dll
+      3360 bytes i386/System32/system.drv
+    385536 bytes i386/System32/themeui.dll
+      4048 bytes i386/System32/timer.drv
+     13888 bytes i386/System32/toolhelp.dll
+    177856 bytes i386/System32/typelib.dll
+     57344 bytes i386/System32/uexfat.dll
+     82432 bytes i386/System32/ufat.dll
+    278528 bytes i386/System32/ulib.dll
+    123392 bytes i386/System32/umpnpmgr.dll
+     89588 bytes i386/System32/unicode.nls
+    316416 bytes i386/System32/untfs.dll
+    619520 bytes i386/System32/urlmon.dll
+     74240 bytes i386/System32/usbui.dll
+     47872 bytes i386/System32/user.exe
+    578560 bytes i386/System32/user32.dll
+    727040 bytes i386/System32/userenv.dll
+    406016 bytes i386/System32/usp10.dll
+    218624 bytes i386/System32/uxtheme.dll
+      7680 bytes i386/System32/vcdex.dll
+     26112 bytes i386/System32/vdmdbg.dll
+      9008 bytes i386/System32/ver.dll
+     18944 bytes i386/System32/version.dll
+      9344 bytes i386/System32/vga.dll
+      2176 bytes i386/System32/vga.drv
+     51456 bytes i386/System32/vga256.dll
+      5232 bytes i386/System32/vga850.fon
+      5184 bytes i386/System32/vga861.fon
+      5168 bytes i386/System32/vgaoem.fon
+     69632 bytes i386/System32/vuins32.dll
+     17664 bytes i386/System32/watchdog.sys
+    196608 bytes i386/System32/wbemcntl.dll
+         0 bytes i386/System32/wdfcoinstaller01007.dll
+     13600 bytes i386/System32/wfwnet.drv
+   1845632 bytes i386/System32/win32k.sys
+     13312 bytes i386/System32/win87em.dll
+    666112 bytes i386/System32/wininet.dll
+     32256 bytes i386/System32/winipsec.dll
+    507904 bytes i386/System32/winlogon.exe
+    176128 bytes i386/System32/winmm.dll
+      2080 bytes i386/System32/winoldap.mod
+     16896 bytes i386/System32/winrnr.dll
+    146432 bytes i386/System32/winspool.drv
+      2112 bytes i386/System32/winspool.exe
+    293376 bytes i386/System32/winsrv.dll
+     53760 bytes i386/System32/winsta.dll
+    176640 bytes i386/System32/wintrust.dll
+    132096 bytes i386/System32/wkssvc.dll
+     69120 bytes i386/System32/wlanapi.dll
+    172032 bytes i386/System32/wldap32.dll
+      5632 bytes i386/System32/wmi.dll
+    264192 bytes i386/System32/wow32.dll
+      2736 bytes i386/System32/wowdeb.exe
+     10368 bytes i386/System32/wowexec.exe
+      3200 bytes i386/System32/wowfax.dll
+     13824 bytes i386/System32/wowfaxui.dll
+     82432 bytes i386/System32/ws2_32.dll
+     19968 bytes i386/System32/ws2help.dll
+      7168 bytes i386/System32/wshnetbs.dll
+     19456 bytes i386/System32/wshtcpip.dll
+     22528 bytes i386/System32/wsock32.dll
+     18432 bytes i386/System32/wtsapi32.dll
+    383488 bytes i386/System32/wzcdlg.dll
+     52736 bytes i386/System32/wzcsapi.dll
+    483840 bytes i386/System32/wzcsvc.dll
+     30720 bytes i386/System32/xcopy.exe
+   2046464 bytes i386/System32/xpsp2res.dll
+    364544 bytes i386/System32/yk50x86.dll
+      7232 bytes i386/WinSxS/Manifests/x86_Microsoft.Tools.VisualCPlusPlus.Runtime-Libraries_6595b64144ccf1df_6.0.0.0_x-ww_ff9986d7.CAT
+      1819 bytes i386/WinSxS/Manifests/x86_Microsoft.Tools.VisualCPlusPlus.Runtime-Libraries_6595b64144ccf1df_6.0.0.0_x-ww_ff9986d7.Manifest
+      8335 bytes i386/WinSxS/Manifests/x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_6b128700.cat
+      1869 bytes i386/WinSxS/Manifests/x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_6b128700.manifest
+      7238 bytes i386/WinSxS/Manifests/x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.0.0_x-ww_1382d70a.CAT
+      1784 bytes i386/WinSxS/Manifests/x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.0.0_x-ww_1382d70a.Manifest
+      8355 bytes i386/WinSxS/Policies/x86_policy.8.0.Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_x-ww_77c24773/8.0.50727.762.cat
+       800 bytes i386/WinSxS/Policies/x86_policy.8.0.Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_x-ww_77c24773/8.0.50727.762.policy
+     74802 bytes i386/WinSxS/x86_Microsoft.Tools.VisualCPlusPlus.Runtime-Libraries_6595b64144ccf1df_6.0.0.0_x-ww_ff9986d7/ATL.DLL
+    995383 bytes i386/WinSxS/x86_Microsoft.Tools.VisualCPlusPlus.Runtime-Libraries_6595b64144ccf1df_6.0.0.0_x-ww_ff9986d7/MFC42.DLL
+    995384 bytes i386/WinSxS/x86_Microsoft.Tools.VisualCPlusPlus.Runtime-Libraries_6595b64144ccf1df_6.0.0.0_x-ww_ff9986d7/MFC42U.DLL
+    401462 bytes i386/WinSxS/x86_Microsoft.Tools.VisualCPlusPlus.Runtime-Libraries_6595b64144ccf1df_6.0.0.0_x-ww_ff9986d7/MSVCP60.DLL
+    479232 bytes i386/WinSxS/x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_6b128700/msvcm80.dll
+    548864 bytes i386/WinSxS/x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_6b128700/msvcp80.dll
+    626688 bytes i386/WinSxS/x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_6b128700/msvcr80.dll
+    921088 bytes i386/WinSxS/x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.0.0_x-ww_1382d70a/COMCTL32.DLL
+       749 bytes i386/WindowsShell.Manifest
+    622592 bytes i386/explorer.exe
+      1066 bytes i386/l2schemas/baseeapconnectionpropertiesv1.xsd
+       612 bytes i386/l2schemas/baseeapmethodconfig.xsd
+       648 bytes i386/l2schemas/baseeapmethodusercredentials.xsd
+      1116 bytes i386/l2schemas/baseeapuserpropertiesv1.xsd
+       752 bytes i386/l2schemas/eapcommon.xsd
+      1159 bytes i386/l2schemas/eapconnectionpropertiesv1.xsd
+      1115 bytes i386/l2schemas/eaphostconfig.xsd
+      1193 bytes i386/l2schemas/eaphostusercredentials.xsd
+      3192 bytes i386/l2schemas/eaptlsconnectionpropertiesv1.xsd
+      1329 bytes i386/l2schemas/eaptlsuserpropertiesv1.xsd
+       789 bytes i386/l2schemas/eapuserpropertiesv1.xsd
+      1271 bytes i386/l2schemas/mschapv2connectionpropertiesv1.xsd
+      1410 bytes i386/l2schemas/mschapv2userpropertiesv1.xsd
+      2843 bytes i386/l2schemas/mspeapconnectionpropertiesv1.xsd
+      1484 bytes i386/l2schemas/mspeapuserpropertiesv1.xsd
+      5957 bytes i386/l2schemas/onex_v1.xsd
+     15263 bytes i386/l2schemas/wlan_profile_v1.xsd
+    146432 bytes i386/regedit.exe
+     69584 bytes i386/system/avicap.dll
+      5532 bytes i386/system/stdole.tlb
+     19200 bytes i386/system/tapi.dll
+     47791 bytes i386/txtsetup.sif
+       380 bytes make.sh
+      1666 bytes menu.lst
+    300144 bytes setupldr.bin
+ 115379300 bytes .
+# 1
+_115379300
+    "."
+___8268800
+    "i386/System32/shell32.dll"
+___2188928
+    "i386/System32/ntoskrnl.exe"
+___2046464
+    "i386/System32/xpsp2res.dll"
+___1851392
+    "i386/System32/mmcndmgr.dll"
+___1845632
+    "i386/System32/win32k.sys"
+___1835008
+    "i386/System32/config/software"
+___1703936
+    "i386/System32/netshell.dll"
+___1414656
+    "i386/System32/mmc.exe"
+___1306624
+    "i386/System32/msxml6.dll"
+___1301504
+    "i386/System32/shdocvw.dll"
+___1287168
+    "i386/System32/ole32.dll"
+___1104896
+    "i386/System32/msxml3.dll"
+___1025024
+    "i386/System32/browseui.dll"
+____995384
+    "i386/WinSxS/x86_Microsoft.Tools.VisualCPlusPlus.Runtime-Libraries_6595b64144ccf1df_6.0.0.0_x-ww_ff9986d7/MFC42U.DLL"
+____995383
+    "i386/WinSxS/x86_Microsoft.Tools.VisualCPlusPlus.Runtime-Libraries_6595b64144ccf1df_6.0.0.0_x-ww_ff9986d7/MFC42.DLL"
+____989696
+    "i386/System32/kernel32.dll"
+____985088
+    "i386/System32/setupapi.dll"
+____981760
+    "i386/System32/mfc42u.dll"
+____963072
+    "i386/System32/syssetup.dll"
+____921088
+    "i386/WinSxS/x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.0.0_x-ww_1382d70a/COMCTL32.DLL"
+____875008
+    "i386/System32/netplwiz.dll"
+____874240
+    "i386/System32/drivers/iaSto2.sys"
+____799744
+    "i386/System32/drivers/dmboot.sys"
+____792064
+    "i386/System32/comres.dll"
+____779657
+    "i386/System32/PENetwork.exe"
+____728064
+    "i386/System32/lsasrv.dll"
+____727040
+    "i386/System32/userenv.dll"
+____713216
+    "i386/System32/sxs.dll"
+____706048
+    "i386/System32/NTDLL.DLL"
+____701440
+    "i386/System32/msxml2.dll"
+____673088
+    "i386/System32/mlang.dat"
+____666112
+    "i386/System32/wininet.dll"
+____626688
+    "i386/WinSxS/x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_6b128700/msvcr80.dll"
+____622592
+    "i386/System32/netcfgx.dll"
+    "i386/explorer.exe"
+____619520
+    "i386/System32/urlmon.dll"
+____617472
+    "i386/System32/advapi32.dll"
+    "i386/System32/comctl32.dll"
+____599040
+    "i386/System32/crypt32.dll"
+____590044
+    "i386/System32/drivers/el985n51.sys"
+____586240
+    "i386/System32/mlang.dll"
+____584704
+    "i386/System32/rpcrt4.dll"
+____578600
+    "i386/System32/drivers/bxois.sys"
+____578560
+    "i386/System32/user32.dll"
+____574976
+    "i386/System32/drivers/NTFS.SYS"
+____551936
+    "i386/System32/oleaut32.dll"
+____549376
+    "i386/System32/shdoclc.dll"
+____548864
+    "i386/WinSxS/x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_6b128700/msvcp80.dll"
+____520384
+    "i386/System32/drivers/ga620nd5.sys"
+____512512
+    "i386/System32/cryptui.dll"
+____507904
+    "i386/System32/winlogon.exe"
+____506368
+    "i386/System32/msxml.dll"
+____498688
+    "i386/System32/clbcatq.dll"
+____493696
+    "i386/System32/drivers/setupdd.sys"
+____483840
+    "i386/System32/wzcsvc.dll"
+____479232
+    "i386/WinSxS/x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_6b128700/msvcm80.dll"
+____474112
+    "i386/System32/shlwapi.dll"
+____456576
+    "i386/System32/drivers/mrxsmb.sys"
+____441896
+    "i386/System32/drivers/bxvbdx.sys"
+____420864
+    "i386/System32/ntvdm.exe"
+____415744
+    "i386/System32/samsrv.dll"
+____413696
+    "i386/System32/msvcp60.dll"
+____407040
+    "i386/System32/netlogon.dll"
+____406016
+    "i386/System32/usp10.dll"
+____401462
+    "i386/WinSxS/x86_Microsoft.Tools.VisualCPlusPlus.Runtime-Libraries_6595b64144ccf1df_6.0.0.0_x-ww_ff9986d7/MSVCP60.DLL"
+____399360
+    "i386/System32/rpcss.dll"
+____397312
+    "i386/System32/setupreg.hiv"
+____389120
+    "i386/System32/cmd.exe"
+____385536
+    "i386/System32/themeui.dll"
+____383488
+    "i386/System32/ginaorg.dll"
+    "i386/System32/wzcdlg.dll"
+____364544
+    "i386/System32/yk50x86.dll"
+____361344
+    "i386/System32/drivers/tcpip.sys"
+____350458
+    "i386/Inf/netrtlx.inf"
+____344064
+    "i386/System32/hnetcfg.dll"
+____343040
+    "i386/System32/msvcrt.dll"
+____337408
+    "i386/System32/netapi32.dll"
+____334848
+    "i386/System32/drivers/srv.sys"
+____330797
+    "i386/Inf/Netrtle.inf"
+____330264
+    "i386/System32/drivers/IaStor.sys"
+____326656
+    "i386/System32/cscui.dll"
+____316416
+    "i386/System32/untfs.dll"
+____314880
+    "i386/System32/scesrv.dll"
+____308224
+    "i386/System32/netui2.dll"
+____304128
+    "i386/System32/duser.dll"
+____300544
+    "i386/System32/sysdm.cpl"
+____300144
+    "setupldr.bin"
+____299520
+    "i386/System32/kerberos.dll"
+____299008
+    "i386/System32/drivers/yk51x86.sys"
+____293376
+    "i386/System32/winsrv.dll"
+____286208
+    "i386/System32/objsel.dll"
+____285184
+    "i386/System32/dmdlgs.dll"
+    "i386/System32/gdi32.dll"
+____278528
+    "i386/System32/ulib.dll"
+____276992
+    "i386/System32/comdlg32.dll"
+____265948
+    "i386/System32/locale.nls"
+____264192
+    "i386/System32/wow32.dll"
+____263680
+    "i386/System32/adsnt.dll"
+____262148
+    "i386/System32/sortkey.nls"
+____256512
+    "i386/System32/devmgr.dll"
+____254588
+    "i386/Fonts/micross.ttf"
+____250240
+    "i386/System32/drivers/CT200xN51.sys"
+____249856
+    "i386/System32/odbc32.dll"
+____247808
+    "i386/System32/drivers/iaSto3.sys"
+    "i386/System32/newdev.dll"
+____246272
+    "i386/System32/es.dll"
+____245760
+    "i386/System32/netui1.dll"
+____245248
+    "i386/System32/mswsock.dll"
+____243497
+    "i386/Inf/yk51x86.inf"
+____241296
+    "i386/System32/drivers/e1e5132.sys"
+____239760
+    "i386/System32/drivers/e1y5132.sys"
+____239104
+    "i386/System32/dsquery.dll"
+____235928
+    "i386/System32/drivers/e1e5032.sys"
+____224768
+    "i386/System32/dmadmin.exe"
+____221912
+    "i386/System32/drivers/e1y6232.sys"
+____221696
+    "i386/System32/localsec.dll"
+____221600
+    "i386/System32/lanman.drv"
+____218624
+    "i386/System32/uxtheme.dll"
+____216576
+    "i386/System32/ieaksie.dll"
+____214016
+    "i386/System32/netevent.dll"
+____213544
+    "i386/System32/drivers/b57xp32.sys"
+    "i386/System32/drivers/k57xp32.sys"
+____209536
+    "i386/System32/drivers/m5288.sys"
+____208552
+    "i386/System32/drivers/e1k6232.sys"
+____208384
+    "i386/System32/rsaenh.dll"
+____201728
+    "i386/System32/drivers/Si3132r5.sys"
+____200872
+    "i386/System32/drivers/e1q6232.sys"
+____200704
+    "i386/System32/dmdskmgr.dll"
+____199168
+    "i386/System32/drivers/aarich.sys"
+____196608
+    "i386/System32/wbemcntl.dll"
+____195072
+    "i386/System32/drivers/Si3114r5.sys"
+____194560
+    "i386/System32/certcli.dll"
+____193536
+    "i386/System32/activeds.dll"
+____190976
+    "i386/System32/drivers/Si3124r5.sys"
+____187776
+    "i386/System32/drivers/acpi.sys"
+____186880
+    "i386/System32/drivers/aar1210.sys"
+____185989
+    "grldr"
+____185344
+    "i386/System32/cmprops.dll"
+____183264
+    "i386/System32/drivers/ixe6232.sys"
+____182656
+    "i386/System32/drivers/ndis.sys"
+____179805
+    "i386/System32/HardlinkShellExt.dll"
+____179048
+    "i386/System32/e1000msg.dll"
+____178370
+    "i386/System32/drivers/mdgndis5.sys"
+____177856
+    "i386/System32/typelib.dll"
+____177152
+    "i386/System32/drivers/Rtenicxp.sys"
+____176640
+    "i386/System32/wintrust.dll"
+____176128
+    "i386/System32/winmm.dll"
+____175744
+    "i386/System32/drivers/rdbss.sys"
+____175616
+    "i386/System32/adsldp.dll"
+____174600
+    "i386/System32/drivers/ahcix86.sys"
+____172032
+    "i386/System32/scrrun.dll"
+    "i386/System32/wldap32.dll"
+____171264
+    "i386/System32/drivers/m4cxwxp.sys"
+____171152
+    "i386/System32/drivers/e1000325.sys"
+____171008
+    "i386/System32/netmsg.dll"
+____169856
+    "i386/System32/drivers/GigNIC.sys"
+    "i386/System32/drivers/GigaNIC.sys"
+    "i386/System32/drivers/smc9452m.sys"
+____169520
+    "i386/System32/ole2disp.dll"
+____168064
+    "i386/System32/drivers/hptmv.sys"
+____167424
+    "i386/System32/comsnap.dll"
+____165496
+    "i386/System32/drivers/e100b325.sys"
+____165272
+    "i386/System32/drivers/e1000nt5.sys"
+____163840
+    "i386/System32/credui.dll"
+    "i386/System32/diskpart.exe"
+____163328
+    "i386/System32/drivers/n100325.sys"
+    "i386/System32/mmcbase.dll"
+    "i386/System32/oleacc.dll"
+____163277
+    "i386/System32/drivers/MegaIDE.sys"
+____162816
+    "i386/System32/drivers/netbt.sys"
+____160424
+    "i386/System32/drivers/e1k5132.sys"
+____159400
+    "i386/System32/drivers/e1q5132.sys"
+____158408
+    "i386/System32/drivers/fei5132.sys"
+    "i386/System32/drivers/fei6232.sys"
+____156020
+    "i386/System32/drivers/el90xnd5.SYS"
+____153344
+    "i386/System32/drivers/dmio.sys"
+____153008
+    "i386/System32/ole2nls.dll"
+____152576
+    "i386/System32/halmps.dll"
+____150528
+    "i386/System32/halapic.dll"
+____149019
+    "i386/System32/crtdll.dll"
+____147968
+    "i386/System32/dnsapi.dll"
+____147456
+    "i386/System32/drivers/EL2K_XP.sys"
+____146432
+    "i386/System32/msls31.dll"
+    "i386/System32/winspool.drv"
+    "i386/regedit.exe"
+____146042
+    "i386/Inf/b57win32.inf"
+____144896
+    "i386/System32/hotplug.dll"
+____144384
+    "i386/System32/IMAGEHLP.DLL"
+    "i386/System32/onex.dll"
+    "i386/System32/schannel.dll"
+____143872
+    "i386/System32/drivers/usbport.sys"
+____143744
+    "i386/System32/drivers/fastfat.sys"
+____143360
+    "i386/System32/adsldpc.dll"
+    "i386/System32/ntshrui.dll"
+____142848
+    "i386/System32/dsprop.dll"
+____141824
+    "i386/System32/drivers/dcrypt.sys"
+____138240
+    "i386/System32/drivers/EL99XN51.SYS"
+____138112
+    "i386/System32/drivers/afd.sys"
+____137600
+    "i386/System32/drivers/EG1032v2.sys"
+____135168
+    "i386/System32/config/default"
+    "i386/System32/desk.cpl"
+    "i386/System32/shsvcs.dll"
+____134400
+    "i386/System32/halmacpi.dll"
+____133632
+    "i386/System32/drivers/exfat.sys"
+____132608
+    "i386/System32/msv1_0.dll"
+____132096
+    "i386/System32/wkssvc.dll"
+____131840
+    "i386/System32/halaacpi.dll"
+____131000
+    "i386/System32/drivers/wimfltr.sys"
+____130432
+    "i386/System32/drivers/Rtnicxp.sys"
+____129792
+    "i386/System32/drivers/fltmgr.sys"
+____129536
+    "i386/System32/acledit.dll"
+____127213
+    "i386/System32/ega.cpi"
+____126976
+    "i386/System32/dhcpcsvc.dll"
+    "i386/System32/eappcfg.dll"
+____126912
+    "i386/System32/msvideo.dll"
+____125952
+    "i386/System32/apphelp.dll"
+    "i386/System32/drivers/ulsata2.sys"
+____125056
+    "i386/System32/drivers/ftdisk.sys"
+____124928
+    "i386/System32/net1.exe"
+____124672
+    "i386/System32/drivers/SiSGbeXP.sys"
+____123392
+    "i386/System32/umpnpmgr.dll"
+____122880
+    "i386/System32/oledlg.dll"
+____121856
+    "i386/System32/stobject.dll"
+____121344
+    "i386/System32/msvfw32.dll"
+____120832
+    "i386/System32/drivers/3wareDrv.sys"
+____118784
+    "i386/System32/dmdskres.dll"
+    "i386/System32/ntmarta.dll"
+____116360
+    "i386/System32/drivers/ianswxp.sys"
+____115712
+    "i386/System32/aclui.dll"
+____115237
+    "i386/Inf/e100b325.inf"
+____113152
+    "i386/System32/dsuiext.dll"
+____111104
+    "i386/System32/activeds.tlb"
+____110080
+    "i386/System32/imm32.dll"
+____109456
+    "i386/System32/avifile.dll"
+____108544
+    "i386/System32/services.exe"
+____108464
+    "i386/System32/netapi.dll"
+____105472
+    "i386/System32/polstore.dll"
+____105344
+    "i386/System32/drivers/mup.sys"
+    "i386/System32/drivers/nvata.sys"
+    "i386/System32/hal.dll"
+____103680
+    "i386/System32/drivers/m5287.sys"
+____103168
+    "i386/System32/drivers/SI3114r.sys"
+____103072
+    "i386/System32/drivers/NetB834x.sys"
+____102528
+    "i386/System32/drivers/SI3112r.sys"
+____102446
+    "i386/System32/net.hlp"
+____100881
+    "i386/System32/drivers/SI3124r.sys"
+_____99840
+    "i386/System32/advpack.dll"
+_____98304
+    "i386/System32/BCM42DIA.CPL"
+_____96768
+    "i386/System32/srvsvc.dll"
+_____96512
+    "i386/System32/drivers/atapi.sys"
+_____96384
+    "i386/System32/drivers/scsiport.sys"
+_____94720
+    "i386/System32/iphlpapi.dll"
+_____94208
+    "i386/System32/odbcint.dll"
+_____93696
+    "i386/System32/drivers/hptmv6.sys"
+_____93056
+    "i386/System32/drivers/rr2310.sys"
+_____92928
+    "i386/System32/drivers/rr2320.sys"
+_____92672
+    "i386/System32/drivers/viamraid.sys"
+_____92288
+    "i386/System32/drivers/KSECDD.SYS"
+_____92224
+    "i386/System32/krnl386.exe"
+_____91137
+    "i386/Inf/e1000325.inf"
+_____89856
+    "i386/Fonts/sseriff.fon"
+_____89588
+    "i386/System32/unicode.nls"
+_____89216
+    "i386/System32/drivers/nvraid.sys"
+_____88192
+    "i386/System32/drivers/coget325.sys"
+_____84992
+    "i386/System32/olepro32.dll"
+_____83072
+    "i386/System32/drivers/SMC95X2.SYS"
+_____82944
+    "i386/System32/olecli.dll"
+_____82688
+    "i386/System32/drivers/a1kxp32.sys"
+_____82432
+    "i386/System32/ufat.dll"
+    "i386/System32/ws2_32.dll"
+_____81728
+    "i386/Fonts/seriff.fon"
+_____81664
+    "i386/System32/drivers/videoprt.sys"
+_____81568
+    "i386/System32/drivers/bxdiagx.sys"
+_____81152
+    "i386/System32/drivers/ga302nd5.sys"
+    "i386/System32/halacpi.dll"
+_____80896
+    "i386/System32/netui0.dll"
+_____80384
+    "i386/System32/imdisk.cpl"
+_____79872
+    "i386/System32/msxml6r.dll"
+_____77824
+    "i386/System32/browser.dll"
+    "i386/System32/ifsutil.dll"
+_____77696
+    "i386/System32/halsp.dll"
+_____77463
+    "i386/System32/drivers/el90Xbc5.SYS"
+_____76800
+    "i386/System32/qutil.dll"
+_____75264
+    "i386/System32/drivers/ipsec.sys"
+    "i386/System32/locator.exe"
+_____74802
+    "i386/WinSxS/x86_Microsoft.Tools.VisualCPlusPlus.Runtime-Libraries_6595b64144ccf1df_6.0.0.0_x-ww_ff9986d7/ATL.DLL"
+_____74752
+    "i386/System32/storprop.dll"
+_____74240
+    "i386/System32/usbui.dll"
+_____73984
+    "i386/System32/drivers/ulsata.sys"
+_____73728
+    "i386/System32/mscms.dll"
+_____73376
+    "i386/System32/mciavi.drv"
+_____72288
+    "i386/System32/e1kmsg.dll"
+_____72192
+    "i386/System32/drivers/3wareDr2.sys"
+_____71168
+    "i386/System32/drivers/dxg.sys"
+_____71040
+    "i386/System32/drivers/EG1032xp.sys"
+_____70144
+    "i386/System32/drivers/AGR1310_51.sys"
+_____69990
+    "i386/Inf/input.inf"
+_____69953
+    "i386/Inf/DELL0325.inf"
+_____69632
+    "i386/System32/BCM42DB0.DLL"
+    "i386/System32/drivers/Usr_xp.sys"
+    "i386/System32/vuins32.dll"
+_____69584
+    "i386/system/avicap.dll"
+_____69120
+    "i386/System32/drivers/SI3124.sys"
+    "i386/System32/wlanapi.dll"
+_____68768
+    "i386/System32/mmsystem.dll"
+_____68336
+    "i386/System32/drivers/JME.sys"
+_____68224
+    "i386/System32/drivers/pci.sys"
+_____68096
+    "i386/System32/adsmsext.dll"
+_____67712
+    "i386/System32/drivers/SI3132.sys"
+_____67584
+    "i386/System32/osuninst.dll"
+_____67072
+    "i386/System32/ntdsapi.dll"
+_____66594
+    "i386/System32/c_437.nls"
+    "i386/System32/c_850.nls"
+    "i386/System32/c_860.nls"
+    "i386/System32/c_861.nls"
+    "i386/System32/c_863.nls"
+    "i386/System32/c_865.nls"
+_____66464
+    "i386/System32/drivers/cb100nds.sys"
+_____66424
+    "i386/System32/NicEtCoE.dll"
+    "i386/System32/drivers/ixgb3251.sys"
+_____66082
+    "i386/System32/c_037.nls"
+    "i386/System32/c_10000.nls"
+    "i386/System32/c_10079.nls"
+    "i386/System32/c_1252.nls"
+    "i386/System32/c_20127.nls"
+    "i386/System32/c_28591.nls"
+    "i386/System32/c_28605.nls"
+    "i386/System32/c_500.nls"
+_____66048
+    "i386/System32/drivers/udfs.sys"
+    "i386/System32/startnet.exe"
+_____65692
+    "i386/Fonts/arial.ttf"
+_____65576
+    "i386/System32/drivers/bxnd52x.sys"
+_____65280
+    "i386/System32/drivers/DLKRTGB.SYS"
+_____64880
+    "i386/System32/drivers/dc21x4.sys"
+_____64656
+    "i386/Fonts/sserife.fon"
+_____64350
+    "i386/System32/mdgndis.hlp"
+_____64096
+    "i386/System32/drivers/iansmsg.dll"
+_____64000
+    "i386/System32/avicap32.dll"
+    "i386/System32/samlib.dll"
+_____63744
+    "i386/System32/drivers/cdfs.sys"
+_____63488
+    "i386/System32/browselc.dll"
+_____63352
+    "i386/System32/NicEtCo.dll"
+_____62976
+    "i386/System32/drivers/cdrom.sys"
+    "i386/System32/iesetup.dll"
+_____62840
+    "i386/System32/NicInstE.dll"
+_____62656
+    "i386/System32/NicInstK.dll"
+_____62464
+    "i386/System32/authz.dll"
+_____62336
+    "i386/System32/drivers/SI31122.sys"
+_____61952
+    "i386/System32/drivers/SI3114.sys"
+_____61696
+    "i386/System32/drivers/ohci1394.sys"
+_____61632
+    "i386/System32/NicInstY.dll"
+_____61440
+    "i386/System32/EL2K_CPP.dll"
+    "i386/System32/dmview.ocx"
+    "i386/System32/mmcshext.dll"
+_____61168
+    "i386/System32/msacm.dll"
+_____60416
+    "i386/System32/CABINET.DLL"
+_____60372
+    "i386/System32/drivers/DGEND5.sys"
+_____60072
+    "i386/System32/ixemsg.dll"
+_____60000
+    "i386/System32/e1qmsg.dll"
+_____59904
+    "i386/System32/drivers/atmarpc.sys"
+    "i386/System32/mpr.dll"
+_____59520
+    "i386/System32/drivers/usbhub.sys"
+_____58880
+    "i386/System32/atl.dll"
+_____58368
+    "i386/System32/clusapi.dll"
+_____58102
+    "i386/Inf/e1e5132.inf"
+_____57936
+    "i386/Fonts/serife.fon"
+_____57845
+    "i386/System32/drivers/BCM42XX5.SYS"
+_____57384
+    "i386/System32/drivers/l1c51x86.sys"
+_____57344
+    "i386/System32/msasn1.dll"
+    "i386/System32/uexfat.dll"
+_____56320
+    "i386/System32/eventlog.dll"
+    "i386/System32/fsutil.exe"
+    "i386/System32/secur32.dll"
+    "i386/System32/servdeps.dll"
+_____55686
+    "i386/Inf/bxnd.inf"
+_____54784
+    "i386/System32/icmui.dll"
+_____53840
+    "i386/System32/dosx.exe"
+_____53760
+    "i386/System32/winsta.dll"
+_____53376
+    "i386/System32/drivers/1394bus.sys"
+_____52736
+    "i386/System32/basesrv.dll"
+    "i386/System32/wzcsapi.dll"
+_____52480
+    "i386/System32/drivers/i8042prt.sys"
+    "i386/System32/drivers/m5289.sys"
+_____52352
+    "i386/System32/drivers/volsnap.sys"
+_____52224
+    "i386/System32/dmutil.dll"
+_____51808
+    "i386/System32/ixgbmsg.dll"
+_____51456
+    "i386/System32/vga256.dll"
+_____51072
+    "i386/System32/drivers/m5281.sys"
+_____50688
+    "i386/System32/smss.exe"
+_____50620
+    "i386/System32/command.com"
+_____50498
+    "i386/System32/drivers/cben5.sys"
+_____50408
+    "i386/System32/drivers/aac.sys"
+_____50176
+    "i386/System32/reg.exe"
+_____49664
+    "i386/System32/regapi.dll"
+_____49536
+    "i386/System32/drivers/classpnp.sys"
+_____48991
+    "i386/Inf/FETNDIS.inf"
+_____48640
+    "i386/System32/iernonce.dll"
+_____48128
+    "i386/System32/drivers/61883.sys"
+    "i386/System32/msprivs.dll"
+_____48044
+    "i386/BIOSINFO.INF"
+    "i386/System32/BIOSINFO.INF"
+_____47872
+    "i386/System32/user.exe"
+_____47791
+    "i386/txtsetup.sif"
+_____47496
+    "i386/System32/drivers/IAMTXP.sys"
+_____47320
+    "i386/System32/drivers/SI3112.sys"
+_____47104
+    "i386/System32/mprui.dll"
+_____46632
+    "i386/System32/drivers/l1e51x86.sys"
+_____46592
+    "i386/System32/keyboard.exe"
+    "i386/System32/pmspl.dll"
+_____46155
+    "i386/System32/drivers/EG103264.sys"
+_____46080
+    "i386/System32/drivers/getnd5bv.sys"
+_____45568
+    "i386/System32/PELoader.exe"
+    "i386/System32/dnsrslvr.dll"
+    "i386/System32/drivers/DLKRTS.SYS"
+    "i386/System32/drivers/bcm4sbxp.sys"
+_____45056
+    "i386/System32/RamStatus.exe"
+_____44664
+    "i386/System32/NicIn100.dll"
+_____44524
+    "i386/System32/drivers/EL99XRUN.OUT"
+_____44511
+    "i386/System32/drivers/GA621ND5.SYS"
+_____44032
+    "i386/System32/msxml3r.dll"
+    "i386/System32/ntlanman.dll"
+    "i386/System32/rtutils.dll"
+_____43904
+    "i386/System32/drivers/sbp2port.sys"
+_____43538
+    "i386/Inf/w9x90xbc.inf"
+_____43520
+    "i386/System32/drivers/fetnd5bv.sys"
+_____43203
+    "i386/Inf/keyboard.inf"
+_____43202
+    "i386/Inf/DELL5132.inf"
+_____42816
+    "i386/System32/drivers/cb102.sys"
+_____42537
+    "i386/System32/keyboard.sys"
+_____42496
+    "i386/System32/net.exe"
+_____42368
+    "i386/System32/drivers/mountmgr.sys"
+_____41957
+    "i386/System32/drivers/hpt3xx.sys"
+_____41472
+    "i386/System32/hhsetup.dll"
+_____41080
+    "i386/System32/NicInstG.dll"
+_____40960
+    "i386/System32/eappprxy.dll"
+    "i386/System32/ntmsapi.dll"
+_____40756
+    "i386/System32/drivers/pcntn5hl.sys"
+_____40484
+    "i386/System32/drivers/dlh5xnd5.sys"
+_____40448
+    "i386/System32/drivers/lne100m.sys"
+_____39936
+    "i386/System32/rshx32.dll"
+_____39904
+    "i386/System32/drivers/cercsr6.sys"
+_____39744
+    "i386/System32/ole2.dll"
+_____39698
+    "i386/Inf/netoem.inf"
+_____39428
+    "i386/System32/drivers/EP320GTX.sys"
+_____39424
+    "i386/System32/ddeml.dll"
+_____39184
+    "i386/System32/drivers/el59x.sys"
+_____39040
+    "i386/System32/drivers/SMC55T51.sys"
+_____38528
+    "i386/System32/drivers/FastNIC.sys"
+    "i386/System32/drivers/SMCEZ251.sys"
+_____38400
+    "i386/System32/bxndcox.dll"
+    "i386/System32/drivers/EL910N51.sys"
+    "i386/System32/drivers/MN120-51.sys"
+    "i386/System32/drivers/MN130-51.sys"
+_____37916
+    "i386/System32/msxml2r.dll"
+_____37888
+    "i386/System32/drivers/l151x86.sys"
+    "i386/System32/msgina.dll"
+_____37570
+    "i386/Inf/e100a325.inf"
+_____37248
+    "i386/System32/drivers/isapnp.sys"
+_____36864
+    "i386/System32/BCM42IOA.DLL"
+    "i386/System32/drivers/S150sx8.sys"
+    "i386/System32/drivers/hidclass.sys"
+_____36672
+    "i386/Fonts/app850.fon"
+_____36656
+    "i386/Fonts/dosapp.fon"
+_____36352
+    "i386/System32/drivers/PCNTPCI5.sys"
+    "i386/System32/drivers/disk.sys"
+    "i386/System32/ncobjapi.dll"
+_____36224
+    "i386/System32/drivers/an983.sys"
+    "i386/System32/drivers/l150x86.sys"
+    "i386/System32/drivers/lne100v5.sys"
+_____36096
+    "i386/System32/drivers/USR7900.sys"
+_____35840
+    "i386/System32/imdisk.exe"
+_____35704
+    "i386/System32/NicInst.dll"
+_____35694
+    "i386/System32/drivers/smartnic.sys"
+_____35648
+    "i386/System32/ntio411.sys"
+_____35584
+    "i386/System32/drivers/DP83820.sys"
+_____35450
+    "i386/Inf/cdrom.inf"
+_____35424
+    "i386/System32/e100bmsg.dll"
+    "i386/System32/ntio412.sys"
+_____34852
+    "i386/System32/drivers/dl2xd50.sys"
+_____34688
+    "i386/System32/drivers/netbios.sys"
+_____34560
+    "i386/System32/ntio404.sys"
+    "i386/System32/ntio804.sys"
+_____33840
+    "i386/System32/ntio.sys"
+_____33792
+    "i386/System32/msgsvc.dll"
+_____33673
+    "i386/System32/diskmgmt.msc"
+_____33408
+    "i386/System32/drivers/ipgdnd51.sys"
+_____33280
+    "i386/System32/cryptdll.dll"
+    "i386/System32/drivers/DM9PCI5.SYS"
+    "i386/System32/rundll32.exe"
+_____33264
+    "i386/System32/drivers/USBENET.SYS"
+_____33138
+    "i386/System32/drivers/DLKNSND5.SYS"
+_____33079
+    "i386/System32/devmgmt.msc"
+_____32840
+    "i386/System32/drivers/Ngrpci.sys"
+_____32816
+    "i386/System32/commdlg.dll"
+_____32768
+    "i386/System32/drivers/DM9eth5.SYS"
+    "i386/System32/drivers/sisnicxp.sys"
+_____32256
+    "i386/System32/csrsrv.dll"
+    "i386/System32/winipsec.dll"
+_____32221
+    "i386/System32/drivers/tx100nd5.sys"
+_____32128
+    "i386/System32/drivers/usbccgp.sys"
+_____32075
+    "i386/Inf/el99x_nt.inf"
+_____31881
+    "i386/Inf/b44win.inf"
+_____31768
+    "i386/Inf/msmouse.inf"
+_____31712
+    "i386/Fonts/courf.fon"
+_____31697
+    "i386/Inf/l1c51x86.inf"
+_____31566
+    "i386/System32/drivers/AEC6880.sys"
+_____30848
+    "i386/System32/drivers/npfs.sys"
+_____30720
+    "i386/System32/drivers/l251x86.sys"
+    "i386/System32/eapolqec.dll"
+    "i386/System32/format.com"
+    "i386/System32/xcopy.exe"
+_____30208
+    "i386/System32/drivers/usbehci.sys"
+_____30160
+    "i386/System32/compobj.dll"
+_____29370
+    "i386/System32/ntdos411.sys"
+_____29274
+    "i386/System32/ntdos412.sys"
+_____29184
+    "i386/System32/batmeter.dll"
+_____29146
+    "i386/System32/ntdos404.sys"
+    "i386/System32/ntdos804.sys"
+_____28928
+    "i386/System32/drivers/l250x86.sys"
+_____28851
+    "i386/Inf/e1q5132.inf"
+_____28792
+    "i386/System32/NicCo36.dll"
+_____28672
+    "i386/System32/ShowDrive.exe"
+    "i386/System32/drivers/ULILAN51.SYS"
+_____28536
+    "i386/System32/NicCo.dll"
+_____28272
+    "i386/System32/NicCo2.dll"
+    "i386/System32/NicCo26.dll"
+_____28160
+    "i386/System32/mciwave.drv"
+_____27866
+    "i386/System32/ntdos.sys"
+_____27783
+    "i386/Inf/e1q6232.inf"
+_____27648
+    "i386/System32/profmap.dll"
+_____27622
+    "i386/System32/drivers/cem56n5.sys"
+_____27392
+    "i386/System32/drivers/fdc.sys"
+_____27200
+    "i386/System32/ctl3dv2.dll"
+_____27136
+    "i386/System32/findstr.exe"
+_____27097
+    "i386/System32/country.sys"
+_____26976
+    "i386/System32/drivers/eh10nds.sys"
+_____26880
+    "i386/System32/drivers/ax88178.sys"
+_____26752
+    "i386/System32/drivers/ipfnd51.sys"
+_____26624
+    "i386/System32/drivers/lgytxc.sys"
+    "i386/System32/msxmlr.dll"
+_____26493
+    "i386/System32/drivers/ADM851x.SYS"
+_____26404
+    "i386/System32/drivers/CB103ND5.sys"
+_____26368
+    "i386/System32/drivers/usbstor.sys"
+_____26112
+    "i386/Fonts/smalle.fon"
+    "i386/System32/dot3api.dll"
+    "i386/System32/vdmdbg.dll"
+_____25593
+    "i386/Inf/netmadge.inf"
+_____25440
+    "i386/System32/drivers/PCIWNT.SYS"
+_____25434
+    "i386/System32/drivers/DLKRCB.SYS"
+_____25264
+    "i386/System32/mciseq.drv"
+_____25260
+    "i386/System32/drivers/SMCUSB.sys"
+_____25165
+    "i386/System32/drivers/MN110-50.SYS"
+_____25156
+    "i386/System32/drivers/NC100.sys"
+_____25134
+    "i386/Inf/e1y6232.INF"
+_____25107
+    "i386/Inf/el2000x.inf"
+_____25088
+    "i386/System32/shfolder.dll"
+_____24960
+    "i386/System32/drivers/hidparse.sys"
+    "i386/System32/drivers/pciidex.sys"
+_____24576
+    "i386/System32/BCM42CTL.DLL"
+    "i386/System32/drivers/kbdclass.sys"
+    "i386/System32/gdi.exe"
+    "i386/System32/odbcbcp.dll"
+_____24555
+    "i386/System32/drivers/FA101ND5.SYS"
+    "i386/System32/drivers/fa410nd5.sys"
+_____24395
+    "i386/System32/drivers/sn2.sys"
+_____24320
+    "i386/System32/drivers/Mraid35x.sys"
+_____24132
+    "i386/System32/drivers/mxnic.sys"
+_____24128
+    "i386/System32/drivers/ne2000.sys"
+_____24124
+    "i386/Fonts/marlett.ttf"
+_____24109
+    "i386/System32/drivers/COUSBTS5.sys"
+_____24064
+    "i386/System32/olesvr.dll"
+_____23938
+    "i386/System32/drivers/USB150.SYS"
+_____23708
+    "i386/Inf/usbport.inf"
+_____23661
+    "i386/System32/drivers/ACC07D.sys"
+_____23552
+    "i386/System32/dmserver.dll"
+_____23408
+    "i386/Fonts/coure.fon"
+_____23044
+    "i386/System32/sorttbls.nls"
+_____23040
+    "i386/System32/drivers/mouclass.sys"
+    "i386/System32/fltmc.exe"
+    "i386/System32/psapi.dll"
+_____22985
+    "i386/Inf/e1y5132.inf"
+_____22528
+    "i386/System32/drivers/ramdisk.sys"
+    "i386/System32/wsock32.dll"
+_____22405
+    "i386/Provisioning/Schemas/wizard.xdr"
+_____22048
+    "i386/System32/drivers/NetBEdge.sys"
+_____22040
+    "i386/System32/drivers/FA33XND5.SYS"
+_____22016
+    "i386/System32/drivers/PCMNDIS.sys"
+    "i386/System32/lpk.dll"
+_____21675
+    "i386/Inf/nettcpip.inf"
+_____21504
+    "i386/Fonts/smallf.fon"
+    "i386/System32/drivers/rtl8150.SYS"
+    "i386/System32/hidserv.dll"
+_____21376
+    "i386/System32/drivers/dm9usb.sys"
+_____21138
+    "i386/Inf/e1k6232.inf"
+_____21063
+    "i386/System32/drivers/EN1208.sys"
+_____20992
+    "i386/System32/drivers/vga.sys"
+    "i386/System32/hid.dll"
+_____20667
+    "i386/Inf/net21x4.inf"
+_____20623
+    "i386/Inf/usb.inf"
+_____20608
+    "i386/System32/drivers/usbuhci.sys"
+_____20560
+    "i386/Inf/k57win32.inf"
+_____20480
+    "i386/System32/drivers/EN2228.sys"
+    "i386/System32/drivers/flpydisk.sys"
+_____20456
+    "i386/System32/drivers/PMNDIS3.sys"
+_____20292
+    "i386/System32/drivers/SMC80412.sys"
+    "i386/System32/drivers/USRPCM.sys"
+_____20256
+    "i386/System32/drivers/dpti2o.sys"
+_____19968
+    "i386/System32/cacls.exe"
+    "i386/System32/drivers/imdisk.sys"
+    "i386/System32/ws2help.dll"
+_____19863
+    "i386/Inf/e1k5132.inf"
+_____19854
+    "i386/System32/drivers/COUSB2T5.SYS"
+_____19712
+    "i386/System32/drivers/partmgr.sys"
+_____19456
+    "i386/System32/dmocx.dll"
+    "i386/System32/wshtcpip.dll"
+_____19200
+    "i386/system/tapi.dll"
+_____19072
+    "i386/System32/drivers/ax88772.sys"
+    "i386/System32/drivers/tdi.sys"
+_____19017
+    "i386/System32/drivers/RTL8029.sys"
+_____18944
+    "i386/System32/fmifs.dll"
+    "i386/System32/rsmps.dll"
+    "i386/System32/version.dll"
+_____18560
+    "i386/System32/drivers/DUBE100B.sys"
+_____18432
+    "i386/System32/deskperf.dll"
+    "i386/System32/dmintf.dll"
+    "i386/System32/drivers/DP83815.sys"
+    "i386/System32/wtsapi32.dll"
+_____18415
+    "i386/System32/drivers/AX88140.sys"
+_____18226
+    "i386/Inf/netamd.inf"
+_____18168
+    "i386/Inf/ixe6232.inf"
+_____18048
+    "i386/System32/DM9Inst.DLL"
+_____18004
+    "i386/System32/drivers/slnt.sys"
+_____17920
+    "i386/System32/drivers/AX88796B.sys"
+    "i386/System32/nddeapi.dll"
+_____17664
+    "i386/System32/watchdog.sys"
+_____17408
+    "i386/System32/alrsvc.dll"
+    "i386/System32/compact.exe"
+    "i386/System32/drivers/en2216.sys"
+    "i386/System32/powrprof.dll"
+_____17280
+    "i386/System32/drivers/EN2212.sys"
+_____17152
+    "i386/System32/drivers/usbohci.sys"
+_____16896
+    "i386/System32/cfgmgr32.dll"
+    "i386/System32/deskmon.dll"
+    "i386/System32/drivers/dc_fsf.sys"
+    "i386/System32/fltlib.dll"
+    "i386/System32/oleaccrc.dll"
+    "i386/System32/stdole2.tlb"
+    "i386/System32/winrnr.dll"
+_____16849
+    "i386/System32/drivers/CO2DPCX5.sys"
+_____16746
+    "i386/System32/drivers/ND5100.sys"
+_____16624
+    "i386/System32/drivers/AX88190.sys"
+_____16512
+    "i386/System32/drivers/FA411ND5.sys"
+_____16386
+    "i386/Inf/fei5132.inf"
+_____16384
+    "i386/System32/OpenWith.exe"
+    "i386/System32/deskadp.dll"
+    "i386/System32/rassapi.dll"
+_____16272
+    "i386/Inf/SiSGbe.inf"
+_____16025
+    "i386/System32/drivers/FA31xND5.SYS"
+_____15904
+    "i386/System32/drivers/EP427X2.SYS"
+_____15872
+    "i386/System32/dmremote.exe"
+    "i386/System32/drivers/rtl8019.sys"
+    "i386/System32/expand.exe"
+_____15604
+    "i386/System32/BCM42RLY.SYS"
+_____15438
+    "i386/System32/PENetwork_Eng.lng"
+_____15434
+    "i386/Inf/bxvbd.inf"
+_____15392
+    "i386/System32/drivers/EP427X.sys"
+_____15361
+    "i386/Inf/fei6232.inf"
+_____15360
+    "i386/System32/diskcopy.dll"
+    "i386/System32/ntvdmd.dll"
+_____15263
+    "i386/l2schemas/wlan_profile_v1.xsd"
+_____15154
+    "i386/Inf/w9xel90x.inf"
+_____14987
+    "i386/Inf/bxdiag.inf"
+_____14679
+    "i386/System32/drivers/ax88180.sys"
+_____14592
+    "i386/System32/drivers/kbdhid.sys"
+    "i386/System32/drivers/ndisuio.sys"
+_____14578
+    "i386/Inf/usbstor.inf"
+_____14550
+    "i386/System32/drivers/SMC8041.sys"
+_____14427
+    "i386/Inf/netdma.inf"
+_____14336
+    "i386/System32/runonce.exe"
+    "i386/System32/svchost.exe"
+_____14208
+    "i386/System32/drivers/USB200M.sys"
+_____14048
+    "i386/System32/drivers/FA120.sys"
+_____13910
+    "i386/Inf/JME.inf"
+_____13888
+    "i386/System32/toolhelp.dll"
+_____13824
+    "i386/System32/lmhsvc.dll"
+    "i386/System32/wowfaxui.dll"
+_____13600
+    "i386/System32/wfwnet.drv"
+_____13312
+    "i386/System32/drivers/arcm_x86.sys"
+    "i386/System32/lsass.exe"
+    "i386/System32/win87em.dll"
+_____13225
+    "i386/Inf/netcpqi.inf"
+_____13124
+    "i386/Inf/l1e51x86.inf"
+_____12428
+    "i386/Inf/getndis.inf"
+_____12348
+    "i386/Inf/ixgb325.inf"
+_____12288
+    "i386/Fonts/8514oem.fon"
+    "i386/System32/attrib.exe"
+    "i386/System32/bootvid.dll"
+_____12283
+    "i386/Inf/netcbe.inf"
+_____12160
+    "i386/System32/drivers/mouhid.sys"
+_____12037
+    "i386/Inf/netmscli.inf"
+_____11776
+    "i386/System32/chkdsk.exe"
+    "i386/System32/netrap.dll"
+    "i386/System32/regsvr32.exe"
+    "i386/System32/setx.exe"
+_____11648
+    "i386/System32/drivers/acpiec.sys"
+_____11392
+    "i386/System32/drivers/sfloppy.sys"
+_____11276
+    "i386/System32/BCM42XHW.SYS"
+_____11264
+    "i386/System32/drivers/ax88172.sys"
+_____11136
+    "i386/System32/drivers/slip.sys"
+_____10976
+    "i386/Fonts/8514fix.fon"
+_____10752
+    "i386/System32/clb.dll"
+_____10624
+    "i386/System32/drivers/SMC2209.sys"
+_____10544
+    "i386/System32/comm.drv"
+_____10496
+    "i386/System32/drivers/dxapi.sys"
+_____10384
+    "i386/Inf/netacc51.inf"
+_____10368
+    "i386/System32/drivers/hidusb.sys"
+    "i386/System32/wowexec.exe"
+_____10240
+    "i386/System32/imdsksvc.exe"
+______9936
+    "i386/System32/lzexpand.dll"
+______9924
+    "i386/Provisioning/Schemas/flashconfigdevice.xdr"
+______9888
+    "i386/Inf/netacc07.inf"
+______9631
+    "i386/Inf/sisgbe_2.inf"
+______9562
+    "i386/Inf/netdl2x.inf"
+______9344
+    "i386/System32/framebuf.dll"
+    "i386/System32/vga.dll"
+______9332
+    "i386/Inf/dlknsnd5.inf"
+______9280
+    "i386/Fonts/8514sys.fon"
+______9216
+    "i386/System32/dot3dlg.dll"
+    "i386/System32/drivers/fs_rec.sys"
+    "i386/System32/find.exe"
+______9050
+    "i386/Inf/NETAN983.INF"
+______9029
+    "i386/System32/ansi.sys"
+______9008
+    "i386/System32/ver.dll"
+______8613
+    "i386/Inf/netm4cx.inf"
+______8569
+    "i386/Inf/a1kxp32.inf"
+______8386
+    "i386/System32/ctype.nls"
+______8384
+    "i386/Fonts/ega40850.fon"
+______8368
+    "i386/Fonts/ega40woa.fon"
+______8355
+    "i386/WinSxS/Policies/x86_policy.8.0.Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_x-ww_77c24773/8.0.50727.762.cat"
+______8349
+    "i386/Inf/ct200xn51.inf"
+______8335
+    "i386/WinSxS/Manifests/x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_6b128700.cat"
+______8192
+    "i386/System32/config/sam"
+    "i386/System32/config/security"
+______8127
+    "i386/Inf/lne100m.inf"
+______8047
+    "i386/Inf/net83815.inf"
+______8016
+    "i386/Inf/l151x86.inf"
+______7992
+    "i386/Inf/l150x86.inf"
+______7895
+    "i386/Inf/1394.inf"
+______7785
+    "i386/Inf/el910.inf"
+______7716
+    "i386/Inf/netsmc55.inf"
+______7691
+    "i386/Inf/netusr.inf"
+______7680
+    "i386/System32/drivers/mcd.sys"
+    "i386/System32/mll_mtf.dll"
+    "i386/System32/vcdex.dll"
+______7662
+    "i386/Inf/netdm9.inf"
+______7558
+    "i386/Inf/smc95x2.inf"
+______7483
+    "i386/Inf/net851x.inf"
+______7394
+    "i386/Inf/netfa33x.inf"
+______7390
+    "i386/Inf/agr1310.inf"
+______7280
+    "i386/Fonts/vgasys.fon"
+______7238
+    "i386/WinSxS/Manifests/x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.0.0_x-ww_1382d70a.CAT"
+______7232
+    "i386/WinSxS/Manifests/x86_Microsoft.Tools.VisualCPlusPlus.Runtime-Libraries_6595b64144ccf1df_6.0.0.0_x-ww_ff9986d7.CAT"
+______7168
+    "i386/System32/hccoin.dll"
+    "i386/System32/wshnetbs.dll"
+______7107
+    "i386/Inf/giganic.inf"
+______7051
+    "i386/Inf/eg1032v2.inf"
+______7048
+    "i386/Inf/net3c985.inf"
+______7046
+    "i386/System32/l_intl.nls"
+______7040
+    "i386/System32/kdcom.dll"
+______7017
+    "i386/Inf/smc9452m.inf"
+______6951
+    "i386/Inf/gignic.inf"
+______6929
+    "i386/Inf/net83820.inf"
+______6656
+    "i386/System32/KBDLA.DLL"
+    "i386/System32/KBDPL.DLL"
+    "i386/System32/KBDSG.DLL"
+    "i386/System32/KBDSL.DLL"
+    "i386/System32/drivers/cmdide.sys"
+______6641
+    "i386/Inf/smcusb.inf"
+______6604
+    "i386/Inf/EG1032v3.inf"
+______6467
+    "i386/Inf/pcm200ha.inf"
+______6422
+    "i386/Inf/netipf.inf"
+    "i386/Inf/netsmcez.inf"
+______6352
+    "i386/Fonts/cga40850.fon"
+______6336
+    "i386/Fonts/cga40woa.fon"
+______6177
+    "i386/Inf/netamdhl.inf"
+______6151
+    "i386/Inf/nc100.inf"
+______6144
+    "i386/System32/KBDBE.DLL"
+    "i386/System32/KBDBR.DLL"
+    "i386/System32/KBDDA.DLL"
+    "i386/System32/KBDFI.DLL"
+    "i386/System32/KBDFR.DLL"
+    "i386/System32/KBDGR.DLL"
+    "i386/System32/KBDNE.DLL"
+    "i386/System32/KBDNO.DLL"
+    "i386/System32/KBDPO.DLL"
+    "i386/System32/KBDSP.DLL"
+    "i386/System32/KBDSW.DLL"
+    "i386/System32/csrss.exe"
+______6129
+    "i386/Inf/netipgd.inf"
+______6103
+    "i386/Inf/smartnic2.inf"
+______6098
+    "i386/Inf/netaten.inf"
+______6077
+    "i386/Inf/mn120.inf"
+______6067
+    "i386/Inf/mn130.inf"
+______6034
+    "i386/Inf/netga302.inf"
+______6028
+    "i386/Inf/netdlh5x.inf"
+______6019
+    "i386/Inf/netcem56.inf"
+______5957
+    "i386/l2schemas/onex_v1.xsd"
+______5888
+    "i386/System32/drivers/dmload.sys"
+______5836
+    "i386/Inf/netg3264.inf"
+______5833
+    "i386/Inf/netfa410.inf"
+______5772
+    "i386/Inf/ep320gtx.inf"
+______5737
+    "i386/Inf/netusr79.inf"
+______5663
+    "i386/Inf/netga621.inf"
+______5649
+    "i386/Inf/netdlkrt.inf"
+______5635
+    "i386/Inf/netuli.inf"
+______5632
+    "i386/System32/KBDBU.DLL"
+    "i386/System32/KBDIT.DLL"
+    "i386/System32/KBDRU.DLL"
+    "i386/System32/KBDUK.DLL"
+    "i386/System32/KBDUS.DLL"
+    "i386/System32/mll_qic.dll"
+    "i386/System32/wmi.dll"
+______5532
+    "i386/system/stdole.tlb"
+______5504
+    "i386/System32/drivers/intelide.sys"
+______5469
+    "i386/Inf/nxpfa101.inf"
+______5395
+    "i386/Inf/IAMT.inf"
+______5376
+    "i386/System32/drivers/viaide.sys"
+______5360
+    "i386/Fonts/vgafix.fon"
+______5328
+    "i386/Fonts/ega80850.fon"
+______5327
+    "i386/Inf/disk.inf"
+______5312
+    "i386/Fonts/ega80woa.fon"
+______5289
+    "i386/Inf/netcb100.inf"
+______5248
+    "i386/System32/drivers/aliide.sys"
+______5232
+    "i386/Fonts/vga850.fon"
+    "i386/System32/vga850.fon"
+______5217
+    "i386/Inf/l251x86.inf"
+______5200
+    "i386/Fonts/vga863.fon"
+______5194
+    "i386/Inf/l250x86.inf"
+______5184
+    "i386/Fonts/vga860.fon"
+    "i386/Fonts/vga865.fon"
+    "i386/System32/vga861.fon"
+______5168
+    "i386/System32/vgaoem.fon"
+______5120
+    "i386/System32/ShutdownRes.dll"
+    "i386/System32/shell.dll"
+______4976
+    "i386/Inf/netfa31x.inf"
+______4768
+    "i386/System32/himem.sys"
+______4752
+    "i386/Inf/netlnev5.inf"
+______4736
+    "i386/System32/drivers/usbd.sys"
+______4697
+    "i386/Inf/fastnic.inf"
+______4608
+    "i386/System32/msimg32.dll"
+______4607
+    "i386/Inf/dlkrcb.inf"
+______4433
+    "i386/Inf/hidserv.inf"
+______4394
+    "i386/Inf/net8150.inf"
+______4388
+    "i386/Inf/ax88796b.inf"
+______4365
+    "i386/Inf/ax88180.inf"
+______4361
+    "i386/Inf/netdge.inf"
+______4352
+    "i386/System32/drivers/wmilib.sys"
+______4320
+    "i386/Fonts/cga80850.fon"
+______4304
+    "i386/Fonts/cga80woa.fon"
+______4270
+    "i386/Inf/netga620.inf"
+______4257
+    "i386/Inf/coget325.inf"
+______4244
+    "i386/Inf/net7xx.inf"
+______4240
+    "i386/Inf/slnt.inf"
+______4224
+    "i386/System32/drivers/beep.sys"
+    "i386/System32/drivers/mnmdd.sys"
+______4214
+    "i386/Inf/netdlkr5.inf"
+______4208
+    "i386/System32/storage.dll"
+______4112
+    "i386/Inf/netcb103.inf"
+______4089
+    "i386/Provisioning/Schemas/flashconfig.xdr"
+______4059
+    "i386/Inf/mn110.inf"
+______4048
+    "i386/System32/timer.drv"
+______3974
+    "i386/Inf/netwzc.inf"
+______3882
+    "i386/Inf/netngr.inf"
+______3816
+    "i386/Inf/NbXpndis.inf"
+______3712
+    "i386/System32/drivers/accgain.sys"
+______3690
+    "i386/Inf/net100.inf"
+______3683
+    "i386/Inf/net80412.inf"
+______3584
+    "i386/System32/comcat.dll"
+    "i386/System32/icmp.dll"
+    "i386/System32/mll_hp.dll"
+    "i386/System32/riched32.dll"
+______3571
+    "i386/Inf/netcb102.inf"
+______3495
+    "i386/Inf/net1208.inf"
+______3456
+    "i386/System32/drivers/oprghdlr.sys"
+    "i386/System32/drivers/spddlang.sys"
+______3391
+    "i386/Inf/en2228.inf"
+______3360
+    "i386/System32/system.drv"
+______3359
+    "i386/Inf/netserv.inf"
+______3338
+    "i386/System32/redir.exe"
+______3334
+    "i386/Inf/fa120.inf"
+______3328
+    "i386/System32/drivers/dxgthk.sys"
+    "i386/System32/drivers/pciide.sys"
+______3280
+    "i386/Inf/usb200m.inf"
+______3279
+    "i386/Inf/netfa411.inf"
+______3253
+    "i386/Inf/netrtp5.inf"
+______3232
+    "i386/Inf/ANSP2KXP.INF"
+______3200
+    "i386/System32/wowfax.dll"
+______3192
+    "i386/l2schemas/eaptlsconnectionpropertiesv1.xsd"
+______3186
+    "i386/Inf/net150.inf"
+______3136
+    "i386/Inf/co2dpcx5.inf"
+______3114
+    "i386/Inf/cousbts5.inf"
+______3101
+    "i386/Inf/ax88178.inf"
+______3094
+    "i386/Inf/smartnic.inf"
+______3074
+    "i386/Inf/pciw2k.inf"
+______3073
+    "i386/System32/drivers/dummy.sys"
+______2966
+    "i386/Inf/bxois.inf"
+______2955
+    "i386/Inf/NETEL59X.INF"
+______2950
+    "i386/Inf/DUBE100B.inf"
+______2944
+    "i386/System32/drivers/null.sys"
+______2844
+    "i386/Inf/dm9usb.inf"
+______2843
+    "i386/l2schemas/mspeapconnectionpropertiesv1.xsd"
+______2758
+    "i386/Inf/ax88772.inf"
+______2749
+    "i386/Inf/cousb2t5.inf"
+    "i386/Inf/netnd51.inf"
+______2736
+    "i386/System32/wowdeb.exe"
+______2726
+    "i386/Inf/AX88172.INF"
+______2652
+    "i386/Inf/net10.inf"
+______2613
+    "i386/Inf/smc2209.inf"
+______2601
+    "i386/Inf/ANSM2KXP.INF"
+______2588
+    "i386/Inf/net2216.inf"
+______2577
+    "i386/System32/config.nt"
+______2560
+    "i386/System32/lz32.dll"
+______2505
+    "i386/Inf/61883.inf"
+______2459
+    "i386/Provisioning/Schemas/masterfile.xdr"
+______2428
+    "i386/Inf/ax88140.inf"
+______2423
+    "i386/Inf/ndisuio.inf"
+______2186
+    "i386/Inf/certclas.inf"
+______2176
+    "i386/Inf/en0100a.inf"
+    "i386/System32/vga.drv"
+______2112
+    "i386/System32/winspool.exe"
+______2080
+    "i386/System32/winoldap.mod"
+______2036
+    "i386/Provisioning/Schemas/wirelessprofile.xdr"
+______2032
+    "i386/System32/mouse.drv"
+______2016
+    "i386/Inf/net8041.inf"
+______2000
+    "i386/System32/keyboard.drv"
+______1998
+    "i386/Inf/netltxc.inf"
+______1964
+    "i386/Inf/ep427x2.inf"
+______1955
+    "i386/Inf/netnb.inf"
+______1942
+    "i386/Inf/pcmcard.inf"
+______1911
+    "i386/Provisioning/Schemas/mspeapconnectionpropertiesv1.xdr"
+______1887
+    "i386/Inf/NbXp834x.inf"
+______1869
+    "i386/WinSxS/Manifests/x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_6b128700.manifest"
+______1830
+    "i386/System32/e100b325.din"
+______1820
+    "i386/Inf/ep325.inf"
+______1819
+    "i386/WinSxS/Manifests/x86_Microsoft.Tools.VisualCPlusPlus.Runtime-Libraries_6595b64144ccf1df_6.0.0.0_x-ww_ff9986d7.Manifest"
+______1801
+    "i386/Inf/sbp2.inf"
+______1795
+    "i386/Inf/net2212.inf"
+______1784
+    "i386/WinSxS/Manifests/x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.0.0_x-ww_1382d70a.Manifest"
+______1744
+    "i386/System32/sound.drv"
+______1721
+    "i386/Provisioning/Schemas/locations.xdr"
+______1688
+    "i386/System32/autoexec.nt"
+______1673
+    "i386/Provisioning/Schemas/ssid.xdr"
+______1666
+    "menu.lst"
+______1662
+    "i386/System32/hbcd.ico"
+______1640
+    "i386/System32/fei5132.din"
+    "i386/System32/fei6232.din"
+______1603
+    "i386/Inf/ep427.inf"
+______1536
+    "i386/System32/hiderun.exe"
+______1535
+    "i386/Inf/enum1394.inf"
+______1484
+    "i386/l2schemas/mspeapuserpropertiesv1.xsd"
+______1469
+    "i386/Inf/ax88190.inf"
+______1459
+    "i386/Inf/ep427x.inf"
+______1426
+    "i386/Provisioning/Schemas/branding.xdr"
+______1410
+    "i386/l2schemas/mschapv2userpropertiesv1.xsd"
+______1372
+    "i386/Inf/net312.inf"
+______1329
+    "i386/l2schemas/eaptlsuserpropertiesv1.xsd"
+______1271
+    "i386/l2schemas/mschapv2connectionpropertiesv1.xsd"
+______1193
+    "i386/l2schemas/eaphostusercredentials.xsd"
+______1159
+    "i386/l2schemas/eapconnectionpropertiesv1.xsd"
+______1116
+    "i386/l2schemas/baseeapuserpropertiesv1.xsd"
+______1115
+    "i386/l2schemas/eaphostconfig.xsd"
+______1066
+    "i386/l2schemas/baseeapconnectionpropertiesv1.xsd"
+______1032
+    "i386/Provisioning/Schemas/register.xdr"
+______1018
+    "i386/Inf/volume.inf"
+_______948
+    "i386/System32/autorun.cmd"
+_______929
+    "i386/System32/homepage.inf"
+_______888
+    "i386/System32/prep"
+_______882
+    "i386/System32/share.exe"
+_______864
+    "i386/System32/e1y5132.din"
+_______861
+    "i386/Provisioning/Schemas/mschapv2userpropertiesv1.xdr"
+_______828
+    "i386/System32/e1e5132.din"
+_______817
+    "i386/System32/mscdexnt.exe"
+_______812
+    "i386/System32/e1000325.din"
+_______800
+    "i386/WinSxS/Policies/x86_policy.8.0.Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_x-ww_77c24773/8.0.50727.762.policy"
+_______789
+    "i386/l2schemas/eapuserpropertiesv1.xsd"
+_______771
+    "i386/System32/e1e5032.din"
+_______752
+    "i386/l2schemas/eapcommon.xsd"
+_______749
+    "i386/WindowsShell.Manifest"
+_______739
+    "i386/System32/e1000nt5.din"
+_______737
+    "i386/System32/e1k5132.din"
+_______732
+    "i386/Provisioning/Schemas/help.xdr"
+_______729
+    "i386/System32/RamDisk.cmd"
+_______706
+    "i386/System32/ixgb3251.din"
+_______703
+    "i386/System32/e1q5132.din"
+_______698
+    "i386/Provisioning/Schemas/mspeapuserpropertiesv1.xdr"
+_______689
+    "i386/Provisioning/Schemas/eapconnectionpropertiesv1.xdr"
+_______687
+    "i386/System32/e1k6232.din"
+_______676
+    "i386/System32/e1y6232.din"
+_______671
+    "i386/System32/e1q6232.din"
+    "i386/System32/ixe6232.din"
+_______648
+    "i386/l2schemas/baseeapmethodusercredentials.xsd"
+_______612
+    "i386/l2schemas/baseeapmethodconfig.xsd"
+_______580
+    "i386/Provisioning/Schemas/baseeapuserpropertiesv1.xdr"
+_______568
+    "i386/System32/IAMT.din"
+_______520
+    "i386/Provisioning/Schemas/baseeapconnectionpropertiesv1.xdr"
+_______395
+    "i386/Provisioning/Schemas/mschapv2connectionpropertiesv1.xdr"
+_______380
+    "make.sh"
+_______378
+    "i386/Provisioning/Schemas/eapuserpropertiesv1.xdr"
+_______303
+    "i386/System32/ResetNTFSPermissions.cmd"
+_______279
+    "i386/System32/ResetAttribs.cmd"
+_______219
+    "i386/SiS/900/040c.lng"
+_______188
+    "i386/SiS/900/0411.lng"
+_______160
+    "i386/24hrLimit.cmd"
+_______121
+    "i386/SiS/900/0404.lng"
+________89
+    "i386/CheckDisk.cmd"
+________67
+    "i386/ERDCompMg.cmd"
+________57
+    "i386/ERDExp.cmd"
+________52
+    "i386/HeXd.cmd"
+    "i386/Opera.cmd"
+_________0
+    "README.md"
+    "i386/SiS/900/uninst.exe"
+    "i386/System32/Prounstl.exe"
+    "i386/System32/RtNicProp32.dll"
+    "i386/System32/wdfcoinstaller01007.dll"
+# 2
+____622592
+    "i386/System32/netcfgx.dll"
+    "i386/explorer.exe"
+____617472
+    "i386/System32/advapi32.dll"
+    "i386/System32/comctl32.dll"
+____383488
+    "i386/System32/ginaorg.dll"
+    "i386/System32/wzcdlg.dll"
+____285184
+    "i386/System32/dmdlgs.dll"
+    "i386/System32/gdi32.dll"
+____247808
+    "i386/System32/drivers/iaSto3.sys"
+    "i386/System32/newdev.dll"
+____213544
+    "i386/System32/drivers/b57xp32.sys"
+    "i386/System32/drivers/k57xp32.sys"
+____172032
+    "i386/System32/scrrun.dll"
+    "i386/System32/wldap32.dll"
+____169856
+    "i386/System32/drivers/GigNIC.sys"
+    "i386/System32/drivers/GigaNIC.sys"
+    "i386/System32/drivers/smc9452m.sys"
+____163840
+    "i386/System32/credui.dll"
+    "i386/System32/diskpart.exe"
+____163328
+    "i386/System32/drivers/n100325.sys"
+    "i386/System32/mmcbase.dll"
+    "i386/System32/oleacc.dll"
+____158408
+    "i386/System32/drivers/fei5132.sys"
+    "i386/System32/drivers/fei6232.sys"
+____146432
+    "i386/System32/msls31.dll"
+    "i386/System32/winspool.drv"
+    "i386/regedit.exe"
+____144384
+    "i386/System32/IMAGEHLP.DLL"
+    "i386/System32/onex.dll"
+    "i386/System32/schannel.dll"
+____143360
+    "i386/System32/adsldpc.dll"
+    "i386/System32/ntshrui.dll"
+____135168
+    "i386/System32/config/default"
+    "i386/System32/desk.cpl"
+    "i386/System32/shsvcs.dll"
+____126976
+    "i386/System32/dhcpcsvc.dll"
+    "i386/System32/eappcfg.dll"
+____125952
+    "i386/System32/apphelp.dll"
+    "i386/System32/drivers/ulsata2.sys"
+____118784
+    "i386/System32/dmdskres.dll"
+    "i386/System32/ntmarta.dll"
+____105344
+    "i386/System32/drivers/mup.sys"
+    "i386/System32/drivers/nvata.sys"
+    "i386/System32/hal.dll"
+_____82432
+    "i386/System32/ufat.dll"
+    "i386/System32/ws2_32.dll"
+_____81152
+    "i386/System32/drivers/ga302nd5.sys"
+    "i386/System32/halacpi.dll"
+_____77824
+    "i386/System32/browser.dll"
+    "i386/System32/ifsutil.dll"
+_____75264
+    "i386/System32/drivers/ipsec.sys"
+    "i386/System32/locator.exe"
+_____69632
+    "i386/System32/BCM42DB0.DLL"
+    "i386/System32/drivers/Usr_xp.sys"
+    "i386/System32/vuins32.dll"
+_____69120
+    "i386/System32/drivers/SI3124.sys"
+    "i386/System32/wlanapi.dll"
+_____66594
+    "i386/System32/c_437.nls"
+    "i386/System32/c_850.nls"
+    "i386/System32/c_860.nls"
+    "i386/System32/c_861.nls"
+    "i386/System32/c_863.nls"
+    "i386/System32/c_865.nls"
+_____66424
+    "i386/System32/NicEtCoE.dll"
+    "i386/System32/drivers/ixgb3251.sys"
+_____66082
+    "i386/System32/c_037.nls"
+    "i386/System32/c_10000.nls"
+    "i386/System32/c_10079.nls"
+    "i386/System32/c_1252.nls"
+    "i386/System32/c_20127.nls"
+    "i386/System32/c_28591.nls"
+    "i386/System32/c_28605.nls"
+    "i386/System32/c_500.nls"
+_____66048
+    "i386/System32/drivers/udfs.sys"
+    "i386/System32/startnet.exe"
+_____64000
+    "i386/System32/avicap32.dll"
+    "i386/System32/samlib.dll"
+_____62976
+    "i386/System32/drivers/cdrom.sys"
+    "i386/System32/iesetup.dll"
+_____61440
+    "i386/System32/EL2K_CPP.dll"
+    "i386/System32/dmview.ocx"
+    "i386/System32/mmcshext.dll"
+_____59904
+    "i386/System32/drivers/atmarpc.sys"
+    "i386/System32/mpr.dll"
+_____57344
+    "i386/System32/msasn1.dll"
+    "i386/System32/uexfat.dll"
+_____56320
+    "i386/System32/eventlog.dll"
+    "i386/System32/fsutil.exe"
+    "i386/System32/secur32.dll"
+    "i386/System32/servdeps.dll"
+_____52736
+    "i386/System32/basesrv.dll"
+    "i386/System32/wzcsapi.dll"
+_____52480
+    "i386/System32/drivers/i8042prt.sys"
+    "i386/System32/drivers/m5289.sys"
+_____48128
+    "i386/System32/drivers/61883.sys"
+    "i386/System32/msprivs.dll"
+_____48044
+    "i386/BIOSINFO.INF"
+    "i386/System32/BIOSINFO.INF"
+_____46592
+    "i386/System32/keyboard.exe"
+    "i386/System32/pmspl.dll"
+_____45568
+    "i386/System32/PELoader.exe"
+    "i386/System32/dnsrslvr.dll"
+    "i386/System32/drivers/DLKRTS.SYS"
+    "i386/System32/drivers/bcm4sbxp.sys"
+_____44032
+    "i386/System32/msxml3r.dll"
+    "i386/System32/ntlanman.dll"
+    "i386/System32/rtutils.dll"
+_____40960
+    "i386/System32/eappprxy.dll"
+    "i386/System32/ntmsapi.dll"
+_____38528
+    "i386/System32/drivers/FastNIC.sys"
+    "i386/System32/drivers/SMCEZ251.sys"
+_____38400
+    "i386/System32/bxndcox.dll"
+    "i386/System32/drivers/EL910N51.sys"
+    "i386/System32/drivers/MN120-51.sys"
+    "i386/System32/drivers/MN130-51.sys"
+_____37888
+    "i386/System32/drivers/l151x86.sys"
+    "i386/System32/msgina.dll"
+_____36864
+    "i386/System32/BCM42IOA.DLL"
+    "i386/System32/drivers/S150sx8.sys"
+    "i386/System32/drivers/hidclass.sys"
+_____36352
+    "i386/System32/drivers/PCNTPCI5.sys"
+    "i386/System32/drivers/disk.sys"
+    "i386/System32/ncobjapi.dll"
+_____36224
+    "i386/System32/drivers/an983.sys"
+    "i386/System32/drivers/l150x86.sys"
+    "i386/System32/drivers/lne100v5.sys"
+_____35424
+    "i386/System32/e100bmsg.dll"
+    "i386/System32/ntio412.sys"
+_____34560
+    "i386/System32/ntio404.sys"
+    "i386/System32/ntio804.sys"
+_____33280
+    "i386/System32/cryptdll.dll"
+    "i386/System32/drivers/DM9PCI5.SYS"
+    "i386/System32/rundll32.exe"
+_____32768
+    "i386/System32/drivers/DM9eth5.SYS"
+    "i386/System32/drivers/sisnicxp.sys"
+_____32256
+    "i386/System32/csrsrv.dll"
+    "i386/System32/winipsec.dll"
+_____30720
+    "i386/System32/drivers/l251x86.sys"
+    "i386/System32/eapolqec.dll"
+    "i386/System32/format.com"
+    "i386/System32/xcopy.exe"
+_____29146
+    "i386/System32/ntdos404.sys"
+    "i386/System32/ntdos804.sys"
+_____28672
+    "i386/System32/ShowDrive.exe"
+    "i386/System32/drivers/ULILAN51.SYS"
+_____28272
+    "i386/System32/NicCo2.dll"
+    "i386/System32/NicCo26.dll"
+_____26624
+    "i386/System32/drivers/lgytxc.sys"
+    "i386/System32/msxmlr.dll"
+_____26112
+    "i386/Fonts/smalle.fon"
+    "i386/System32/dot3api.dll"
+    "i386/System32/vdmdbg.dll"
+_____24960
+    "i386/System32/drivers/hidparse.sys"
+    "i386/System32/drivers/pciidex.sys"
+_____24576
+    "i386/System32/BCM42CTL.DLL"
+    "i386/System32/drivers/kbdclass.sys"
+    "i386/System32/gdi.exe"
+    "i386/System32/odbcbcp.dll"
+_____24555
+    "i386/System32/drivers/FA101ND5.SYS"
+    "i386/System32/drivers/fa410nd5.sys"
+_____23040
+    "i386/System32/drivers/mouclass.sys"
+    "i386/System32/fltmc.exe"
+    "i386/System32/psapi.dll"
+_____22528
+    "i386/System32/drivers/ramdisk.sys"
+    "i386/System32/wsock32.dll"
+_____22016
+    "i386/System32/drivers/PCMNDIS.sys"
+    "i386/System32/lpk.dll"
+_____21504
+    "i386/Fonts/smallf.fon"
+    "i386/System32/drivers/rtl8150.SYS"
+    "i386/System32/hidserv.dll"
+_____20992
+    "i386/System32/drivers/vga.sys"
+    "i386/System32/hid.dll"
+_____20480
+    "i386/System32/drivers/EN2228.sys"
+    "i386/System32/drivers/flpydisk.sys"
+_____20292
+    "i386/System32/drivers/SMC80412.sys"
+    "i386/System32/drivers/USRPCM.sys"
+_____19968
+    "i386/System32/cacls.exe"
+    "i386/System32/drivers/imdisk.sys"
+    "i386/System32/ws2help.dll"
+_____19456
+    "i386/System32/dmocx.dll"
+    "i386/System32/wshtcpip.dll"
+_____19072
+    "i386/System32/drivers/ax88772.sys"
+    "i386/System32/drivers/tdi.sys"
+_____18944
+    "i386/System32/fmifs.dll"
+    "i386/System32/rsmps.dll"
+    "i386/System32/version.dll"
+_____18432
+    "i386/System32/deskperf.dll"
+    "i386/System32/dmintf.dll"
+    "i386/System32/drivers/DP83815.sys"
+    "i386/System32/wtsapi32.dll"
+_____17920
+    "i386/System32/drivers/AX88796B.sys"
+    "i386/System32/nddeapi.dll"
+_____17408
+    "i386/System32/alrsvc.dll"
+    "i386/System32/compact.exe"
+    "i386/System32/drivers/en2216.sys"
+    "i386/System32/powrprof.dll"
+_____16896
+    "i386/System32/cfgmgr32.dll"
+    "i386/System32/deskmon.dll"
+    "i386/System32/drivers/dc_fsf.sys"
+    "i386/System32/fltlib.dll"
+    "i386/System32/oleaccrc.dll"
+    "i386/System32/stdole2.tlb"
+    "i386/System32/winrnr.dll"
+_____16384
+    "i386/System32/OpenWith.exe"
+    "i386/System32/deskadp.dll"
+    "i386/System32/rassapi.dll"
+_____15872
+    "i386/System32/dmremote.exe"
+    "i386/System32/drivers/rtl8019.sys"
+    "i386/System32/expand.exe"
+_____15360
+    "i386/System32/diskcopy.dll"
+    "i386/System32/ntvdmd.dll"
+_____14592
+    "i386/System32/drivers/kbdhid.sys"
+    "i386/System32/drivers/ndisuio.sys"
+_____14336
+    "i386/System32/runonce.exe"
+    "i386/System32/svchost.exe"
+_____13824
+    "i386/System32/lmhsvc.dll"
+    "i386/System32/wowfaxui.dll"
+_____13312
+    "i386/System32/drivers/arcm_x86.sys"
+    "i386/System32/lsass.exe"
+    "i386/System32/win87em.dll"
+_____12288
+    "i386/Fonts/8514oem.fon"
+    "i386/System32/attrib.exe"
+    "i386/System32/bootvid.dll"
+_____11776
+    "i386/System32/chkdsk.exe"
+    "i386/System32/netrap.dll"
+    "i386/System32/regsvr32.exe"
+    "i386/System32/setx.exe"
+_____10368
+    "i386/System32/drivers/hidusb.sys"
+    "i386/System32/wowexec.exe"
+______9344
+    "i386/System32/framebuf.dll"
+    "i386/System32/vga.dll"
+______9216
+    "i386/System32/dot3dlg.dll"
+    "i386/System32/drivers/fs_rec.sys"
+    "i386/System32/find.exe"
+______8192
+    "i386/System32/config/sam"
+    "i386/System32/config/security"
+______7680
+    "i386/System32/drivers/mcd.sys"
+    "i386/System32/mll_mtf.dll"
+    "i386/System32/vcdex.dll"
+______7168
+    "i386/System32/hccoin.dll"
+    "i386/System32/wshnetbs.dll"
+______6656
+    "i386/System32/KBDLA.DLL"
+    "i386/System32/KBDPL.DLL"
+    "i386/System32/KBDSG.DLL"
+    "i386/System32/KBDSL.DLL"
+    "i386/System32/drivers/cmdide.sys"
+______6422
+    "i386/Inf/netipf.inf"
+    "i386/Inf/netsmcez.inf"
+______6144
+    "i386/System32/KBDBE.DLL"
+    "i386/System32/KBDBR.DLL"
+    "i386/System32/KBDDA.DLL"
+    "i386/System32/KBDFI.DLL"
+    "i386/System32/KBDFR.DLL"
+    "i386/System32/KBDGR.DLL"
+    "i386/System32/KBDNE.DLL"
+    "i386/System32/KBDNO.DLL"
+    "i386/System32/KBDPO.DLL"
+    "i386/System32/KBDSP.DLL"
+    "i386/System32/KBDSW.DLL"
+    "i386/System32/csrss.exe"
+______5632
+    "i386/System32/KBDBU.DLL"
+    "i386/System32/KBDIT.DLL"
+    "i386/System32/KBDRU.DLL"
+    "i386/System32/KBDUK.DLL"
+    "i386/System32/KBDUS.DLL"
+    "i386/System32/mll_qic.dll"
+    "i386/System32/wmi.dll"
+______5232
+    "i386/Fonts/vga850.fon"
+    "i386/System32/vga850.fon"
+______5184
+    "i386/Fonts/vga860.fon"
+    "i386/Fonts/vga865.fon"
+    "i386/System32/vga861.fon"
+______5120
+    "i386/System32/ShutdownRes.dll"
+    "i386/System32/shell.dll"
+______4224
+    "i386/System32/drivers/beep.sys"
+    "i386/System32/drivers/mnmdd.sys"
+______3584
+    "i386/System32/comcat.dll"
+    "i386/System32/icmp.dll"
+    "i386/System32/mll_hp.dll"
+    "i386/System32/riched32.dll"
+______3456
+    "i386/System32/drivers/oprghdlr.sys"
+    "i386/System32/drivers/spddlang.sys"
+______3328
+    "i386/System32/drivers/dxgthk.sys"
+    "i386/System32/drivers/pciide.sys"
+______2749
+    "i386/Inf/cousb2t5.inf"
+    "i386/Inf/netnd51.inf"
+______2176
+    "i386/Inf/en0100a.inf"
+    "i386/System32/vga.drv"
+______1640
+    "i386/System32/fei5132.din"
+    "i386/System32/fei6232.din"
+_______671
+    "i386/System32/e1q6232.din"
+    "i386/System32/ixe6232.din"
+________52
+    "i386/HeXd.cmd"
+    "i386/Opera.cmd"
+_________0
+    "README.md"
+    "i386/SiS/900/uninst.exe"
+    "i386/System32/Prounstl.exe"
+    "i386/System32/RtNicProp32.dll"
+    "i386/System32/wdfcoinstaller01007.dll"
+#
