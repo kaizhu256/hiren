@@ -1,0 +1,11 @@
+timeout 2
+default /default
+
+title Mini Windows Xp\nRun Antivirus and other windows programs
+find --set-root /xploader.bin
+chainloader /xploader.bin
+savedefault
+
+title commandline
+# savedefault --wait=2
+commandline

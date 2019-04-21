@@ -1,4 +1,4 @@
 [SetupData]
 BootDevice="ramdisk(0)"
 BootPath="\i386\System32\"
-OsLoadOptions="/fastdetect /minint /rdexportashd /rdpath=\HBCD\XP.CA_"
+OsLoadOptions="/fastdetect /minint /rdexportashd /rdpath=\XP.CA_"

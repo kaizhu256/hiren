@@ -1,1 +1,0 @@
-start "" .\HBCD\WinTools\Autorun.exe
