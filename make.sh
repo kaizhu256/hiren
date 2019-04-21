@@ -13,7 +13,7 @@ shMake () {(set -e
     utility2 shMkisofs winxp_bootcd grldr
     )
     mv tmp/build/tmp/winxp_bootcd.iso tmp
-    rm -fr tmp/build
+    #!! rm -fr tmp/build
 )}
 
 shMake
